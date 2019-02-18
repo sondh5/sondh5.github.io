@@ -1,0 +1,19 @@
+.homecover {
+	background-size: cover;
+	padding: 10rem 0rem;
+	color: #fff;
+	margin-bottom: 2rem;
+	margin-top: -1.5rem;
+	background-image: url(../img/blog-cover.jpg);
+	background-position: center;
+
+	h1 span, .lead span {
+    background: rgba(0,0,0,0.6);
+    padding: 3px 20px 3px 20px;
+    display: inline-block;
+	}
+}
+
+body {
+	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}

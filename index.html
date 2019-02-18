@@ -5,6 +5,17 @@ title: Home
 
 {% if page.url == "/" %}
 
+<!-- Site Title
+================================================== -->
+<div class="mainheading  homecover " style="background-image:url(../blog/assets/images/blog-cover.jpg);">
+  <h1 class="sitetitle">
+    <span>{{ site.name }}</span>
+  </h1>
+  <p class="lead">
+    <span>{{ site.description }}</span>
+  </p>
+</div>
+
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
@@ -42,7 +53,4 @@ title: Home
   <span class="navigation" role="navigation">
     {% include pagination.html %}
   </span>
-  <div class="footer">
-
-  </div>
 </div>
