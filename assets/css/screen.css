@@ -100,7 +100,8 @@ License: https://www.wowthemes.net/freebies-license/
      border: 0;
 }
  .listfeaturedtag .thumbnail {
-     background-size:cover;
+     background-size:contain;
+     background-repeat: no-repeat;
      height:100%;
      display:block;
      background-position:38% 22% !important;
