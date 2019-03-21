@@ -5,3 +5,25 @@
  .logo a:hover {
    text-decoration: none;
  }
+
+@media (max-width: 767px) {
+  .tp-caption-name {
+    font-size: 37px!important;
+    line-height: 1!important;
+    padding: 15px!important;
+  }
+  .tp-caption-title {
+    font-size: 20px!important;
+    line-height: 1!important;
+    padding: 10px!important;
+  }
+}
+
+@media (max-width: 380px) {
+  .tp-caption-name {
+    padding: 10px!important;
+  }
+  .tp-caption-title {
+    padding: 5px!important;
+  }
+}
