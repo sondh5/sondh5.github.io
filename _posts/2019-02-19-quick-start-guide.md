@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Xây dựng trang cá nhân với gem Jekyll"
-author: sal
+author: sondh5
 categories: [ Jekyll, tutorial ]
 image: assets/images/jekyll.png
 featured: true
@@ -11,7 +11,7 @@ hidden: true
 Nếu bạn là 1 dev Ruby on Rails thì với môi trường đã có sẵn, không mất đến 5 phút để bạn có riêng cho mình 1 trang cá nhân ngầu  theo các bước sau:
 
 ## Chuẩn bị
-### Setup Ruby 
+### Setup Ruby
 Nếu bạn là RoR dev thì có thể bỏ qua bước này, còn nếu không thì: install ruby, install bundle
 
 ### Setup repo & page
@@ -21,15 +21,15 @@ Nếu bạn là RoR dev thì có thể bỏ qua bước này, còn nếu không 
 ![](https://guides.github.com/features/pages/create-new-repo-screen.png)
 
 **Setting Github page**
-Chọn setting trong repo của bạn 
+Chọn setting trong repo của bạn
 ![](https://guides.github.com/features/pages/repo-settings.png)
 
-Kéo xuống phần github page và chọn master branch: 
+Kéo xuống phần github page và chọn master branch:
 ![](https://guides.github.com/features/pages/launch-theme-chooser.png)
 
 Vậy là xong phần chuẩn bị rồi, bắt đầu nào!
 
-## Bắt đầu 
+## Bắt đầu
 
 ### Basic
 
