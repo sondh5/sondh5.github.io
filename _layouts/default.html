@@ -70,7 +70,7 @@
           <!-- Begin Menu -->
 
           <ul class="navbar-nav ml-auto">
-            {% if page.url == "/about.html" %}
+            {% if page.url == "/about" %}
             <li class="nav-item active">
               {% else %}
             <li class="nav-item">
@@ -78,8 +78,20 @@
               <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
             </li>
 
+            {% if page.url == "/categories" %}
+            <li class="nav-item active">
+              {% else %}
             <li class="nav-item">
-              <a class="nav-link" href="#">Portfolio</a>
+              {% endif %}
+              <a class="nav-link" href="{{ site.baseurl }}/categories">Categories</a>
+            </li>
+
+            {% if page.url == "/maps" %}
+            <li class="nav-item active">
+              {% else %}
+            <li class="nav-item">
+              {% endif %}
+              <a class="nav-link" href="{{ site.baseurl }}/maps">Maps</a>
             </li>
 
             <li class="nav-item">

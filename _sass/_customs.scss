@@ -17,3 +17,15 @@
 body {
 	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
+
+iframe.travel-maps {
+  border: none;
+	@media (max-width: 767px) {
+		height: calc(100vh - 135px);
+		margin-top: -35px;
+	}
+	height: calc(100vh - 150px);
+	margin-top: -28px;
+	width: 100%;
+
+}
