@@ -78,6 +78,14 @@
               <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
             </li>
 
+            {% if page.url == "/" %}
+            <li class="nav-item active">
+              {% else %}
+            <li class="nav-item">
+              {% endif %}
+              <a class="nav-link" href="{{ site.baseurl }}/">Blog</a>
+            </li>
+
             {% if page.url == "/categories" %}
             <li class="nav-item active">
               {% else %}
@@ -86,24 +94,16 @@
               <a class="nav-link" href="{{ site.baseurl }}/categories">Categories</a>
             </li>
 
-            {% if page.url == "/maps" %}
+            {% if page.url == "/tils" %}
             <li class="nav-item active">
               {% else %}
             <li class="nav-item">
               {% endif %}
-              <a class="nav-link" href="{{ site.baseurl }}/maps">Maps</a>
+              <a class="nav-link" href="{{ site.baseurl }}/tils">TILs</a>
             </li>
 
             <li class="nav-item">
               <a class="nav-link" href="{{ site.baseurl }}/resume">Resume</a>
-            </li>
-
-            {% if page.url == "/" %}
-            <li class="nav-item active">
-              {% else %}
-            <li class="nav-item">
-              {% endif %}
-              <a class="nav-link" href="{{ site.baseurl }}/">Blog</a>
             </li>
           </ul>
           <!-- End Menu -->
@@ -177,13 +177,13 @@
   ================================================== -->
 
       </div>
-      <!-- /.container>
-
-
-
-
+      <!-- /.container -->
     </div>
-    <!-- /.site-content>
+
+
+
+
+    <!-- /.site-content-->
 
 <!-- Scripts
 ================================================== -->

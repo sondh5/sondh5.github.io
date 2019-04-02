@@ -2,7 +2,7 @@
 layout: post
 title:  "Rails Logger and Rails Logging Best Practices"
 author: sondh5
-categories: [ Rails, Logger, Debug ]
+categories: [ Rails ]
 image: https://stackify.com/wp-content/uploads/2019/02/Rails-Logger-and-Rails-Logging-Best-Practices-881x441.jpg
 ---
 

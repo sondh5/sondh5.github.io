@@ -2,7 +2,7 @@
 layout: post
 title:  "Xây dựng trang cá nhân với gem Jekyll"
 author: sondh5
-categories: [ Jekyll, tutorial ]
+categories: [ Jekyll ]
 image: assets/images/jekyll.png
 featured: true
 hidden: true
