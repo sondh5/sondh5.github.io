@@ -8,11 +8,11 @@ featured: true
 hidden: true
 ---
 
-Nếu bạn là 1 dev Ruby on Rails thì với môi trường đã có sẵn, không mất đến 5 phút để bạn có riêng cho mình 1 trang cá nhân ngầu  theo các bước sau:
+Nếu bạn là 1 dev Ruby on Rails thì với môi trường đã có sẵn, không mất đến 5 phút để bạn có riêng cho mình 1 trang cá nhân thật ngầu theo các bước sau:
 
 ## Chuẩn bị
 ### Setup Ruby
-Nếu bạn là RoR dev thì có thể bỏ qua bước này, còn nếu không thì: install ruby, install bundle
+Nếu bạn là RoR dev thì có thể bỏ qua bước này, còn nếu không phải thì hãy mở terminal và chạy: `install ruby`, `install bundle`
 
 ### Setup repo & page
 **Tạo new repo**
@@ -32,6 +32,7 @@ Vậy là xong phần chuẩn bị rồi, bắt đầu nào!
 ## Bắt đầu
 
 ### Basic
+Nếu bạn muốn bắt đầu với 1 trang hoàn  toàn mới và dự mình xây dựng nó
 
 ```ruby
 # Install Jekyll and Bundler gems through RubyGems
@@ -49,7 +50,7 @@ bundle exec jekyll serve
 
 ### With theme
 
-Trên đây là 1 basic blog, còn nếu muốn dùng 1 theme màu mè hơn, đẹp hơn thì có thể search google có vô vàn theme cho các bạn lựa chọn. Mình thì chọn của [@wowthemes](https://www.wowthemes.net/jekyll-themes-templates/)
+Trên đây là 1 basic blog, còn nếu muốn dùng 1 theme màu mè hơn, đẹp hơn đã được xây dựng sẵn thì bạn có thể search google có vô vàn theme cho các bạn lựa chọn. Mình thì chọn của [@wowthemes](https://www.wowthemes.net/jekyll-themes-templates/)
 
 Mình chọn [mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll/)
 
@@ -89,6 +90,6 @@ Chú ý:
 - Cho người dùng mac thì nếu bị lỗi install gem ffi thì tham khảo [issue này](https://github.com/ffi/ffi/issues/651)  và [gist này](https://gist.github.com/Dreyer/0a0976f5606c0c963ab9a622f03ee26d).
 
 Tham khảo:
-- [https://jekyllrb.com](https://jekyllrb.com)
-- [https://github.com/wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll)
-- [https://guides.github.com/features/pages/](https://guides.github.com/features/pages/)
+- [jekyllrb.com](https://jekyllrb.com)
+- [mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll)
+- [github.com/features/pages/](https://guides.github.com/features/pages/)
