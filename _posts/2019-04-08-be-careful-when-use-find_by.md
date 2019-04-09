@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tils_layout
 title:  "Be careful when use find_by"
 author: sondh5
 categories: [ TIL ]
@@ -25,6 +25,15 @@ Vấn đề là hàm `find_by(arg, *args)` được định nghĩa như sau:
 
 >Finds the first record matching the specified conditions. There is no implied ordering so if order matters, you should specify it yourself.
 >If no record is found, returns nil.
+
+```ruby
+# File activerecord/lib/active_record/relation/finder_methods.rb, line 80
+def find_by(arg, *args)
+  where(arg, *args).take
+rescue ::RangeError
+  nil
+end
+```
 
 Vì `no implied ordering`, nên khi gặp `Aoi` với id nhỏ hơn sẽ trả ra kết quả luôn thay vì tìm `Maria` trước theo như argument mà ta truyền vào.
 
