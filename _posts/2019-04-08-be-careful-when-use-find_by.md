@@ -2,7 +2,7 @@
 layout: tils_layout
 title:  "Be careful when use find_by"
 author: sondh5
-categories: [ TIL ]
+categories: [ TILs, rails ]
 ---
 
 ```ruby
