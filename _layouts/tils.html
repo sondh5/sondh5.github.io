@@ -13,7 +13,7 @@ post_class: post-template
       </div>
       {% assign pages_list = category[1] %}
       {% for post in pages_list %}
-        {% if post.title != null %}
+        {% if post.title != null and post.status == "public" %}
           {% if group == null or group == post.group %}
             {% include tilbox.html %}
           {% endif %}

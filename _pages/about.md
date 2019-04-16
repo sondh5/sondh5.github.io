@@ -1,420 +1,395 @@
 ---
-layout: about
+layout: default_dark
 title: About me
 permalink: /about
 comments: false
 ---
-<div class="row justify-content-between">
-  <div class="col-md-9 pr-5">
-    <div class="page-wrapper">
 
-      <section id="about" class="light-gray-bg pv-20">
-        <div class="container">
-
-
-          <!-- timeline grid start -->
-          <!-- ================ -->
-          <div class="timeline margin-clear clearfix">
-
-            <!-- timeline grid item start -->
-            <div class="timeline-item">
-              <div class="white-bg shadow p-20 text-center object-non-visible" data-animation-effect="fadeInUpSmall"
-                data-effect-delay="100">
-                <div class="timeline-date-label with-month margin-clear clearfix">Jan 2019 - present</div>
-                <h3 class="mt-4">Web Developer at Zigexn VeNtura</h3>
-                <div class="separator"></div>
-                <p class="text-left">
-                  - Sharing economy project
-                </p>
-              </div>
+<div class="row justify-content-between about-me">
+  <div class="col-lg-9 col-md-8 pr-3">
+    <div class="row">
+      <div class="col-md-12">
+        <div id="content" class="panel-container">
+          <!-- Home Page
+          ================================================== -->
+          <div id="home" style="display: block;" class="active">
+            <div class="row">
+              <section class="about-me line col-md-12 padding_30 padbot_30">
+                <div class="section-title"><span></span><h2>About Me</h2></div>
+                <p>Started earnest brother believe an exposed so. Me he believing daughters if forfeited at furniture. Age again and stuff downs spoke. Late hour new nay able fat each sell. Nor themselves age introduced frequently use unsatiable devonshire get. They why quit gay cold rose deal park. One same they four did ask busy. Reserved opinions fat him nay position. Breakfast as zealously incommode do agreeable furniture. One too nay led fanny allow plate.</p>
+              </section>
             </div>
-            <!-- timeline grid item end -->
-
-            <!-- timeline grid item start -->
-            <div class="timeline-item pull-right">
-              <div class="white-bg shadow p-20 text-center object-non-visible" data-animation-effect="fadeInUpSmall"
-                data-effect-delay="100">
-                <div class="timeline-date-label with-month margin-clear clearfix">Sep 2016 - Dec 2018</div>
-                <h3 class="mt-4">Web Developer at Framgia</h3>
-                <div class="separator"></div>
-                <p class="text-left">
-                  - Training program (2 months)
-                  </br>
-                  - Travel project (5 months)
-                  </br>
-                  - Entertainment project (20 months)
-                </p>
-              </div>
-            </div>
-            <!-- timeline grid item end -->
-
-            <!-- timeline grid item start -->
-            <div class="timeline-item pull-right">
-              <div class="white-bg shadow p-20 text-center object-non-visible" data-animation-effect="fadeInUpSmall"
-                data-effect-delay="100">
-                <div class="timeline-date-label with-month margin-clear clearfix">Aug 2017 - Apr 2018</div>
-                <h3 class="mt-4">Freelancer at Vinalign</h3>
-                <div class="separator"></div>
-                <p class="text-justify">Vinalign is a dental clinics connecting system. In May 2018 the number of clinic
-                  was approximately 100.</p>
-              </div>
-            </div>
-            <!-- timeline grid item end -->
-
-            <!-- timeline grid item start -->
-            <div class="timeline-item">
-              <div class="white-bg shadow p-20 text-center object-non-visible" data-animation-effect="fadeInUpSmall"
-                data-effect-delay="100">
-                <div class="timeline-date-label with-month margin-clear clearfix">Jun 2017 - Dec 2017</div>
-                <h3 class="mt-4">Web Developer at FPT University</h3>
-                <div class="separator"></div>
-                <p class="text-justify">
-                  Capstone project named Classy.
-                  Search and Review System for foreign language center is a web-based application.
-                  The application helps people find and compare to choose the best center for them. It also helps
-                  language centers have more student.
-                </p>
-              </div>
-            </div>
-            <!-- timeline grid item end -->
-
-            <!-- timeline grid item start -->
-            <div class="timeline-item pull-right">
-              <div class="white-bg shadow p-20 text-center object-non-visible" data-animation-effect="fadeInUpSmall"
-                data-effect-delay="100">
-                <div class="timeline-date-label with-month margin-clear clearfix">May 2016 - Sep 2016</div>
-                <h3 class="mt-4">Intern at FPT Software</h3>
-                <div class="separator"></div>
-                <p>I have an internship at Software Hanoi and work as web developer</p>
-              </div>
-            </div>
-            <!-- timeline grid item end -->
-
-            <!-- timeline grid item start -->
-            <div class="timeline-item">
-              <div class="white-bg shadow p-20 text-center object-non-visible" data-animation-effect="fadeInUpSmall"
-                data-effect-delay="100">
-                <div class="timeline-date-label with-month margin-clear clearfix">Sep 2013 - Dec 2017</div>
-                <h3 class="mt-4">Software Engineer Degree</h3>
-                <div class="separator"></div>
-                <p class="text-left">
-                  - FPT University Talented full scholarship at Software Engineering
-                  <br>
-                  - Field of study: Software Engineering
-                  </br>
-                  - Degree rank: Good
-                  <br>
-                  - Activities and societies: English and soft skills club, Vovinam Club, Photography Club, Student
-                  council
-                </p>
-              </div>
-            </div>
-            <!-- timeline grid item end -->
-
-            <!-- timeline grid item start -->
-            <div class="timeline-item pull-right">
-              <div class="white-bg shadow p-20 text-center object-non-visible" data-animation-effect="fadeInUpSmall"
-                data-effect-delay="100">
-                <div class="timeline-date-label margin-clear clearfix">2010 - 2013</div>
-                <h3 class="mt-4">High School Degree</h3>
-                <div class="separator"></div>
-                <p class="text-left">
-                  - Major: Maths, Physics, Chemistry
-                  </br>
-                  - Degree rank: Good
-                  </br>
-                  - Activities and societies: VN50 Team
-                </p>
-              </div>
-            </div>
-            <!-- timeline grid item end -->
-
-          </div>
-          <!-- timeline grid end -->
-        </div>
-      </section>
-
-      <section id="skills" class="main-container">
-        <div class="container">
-          <div class="row justify-content-lg-center">
-
-            <!-- main start -->
-            <!-- ================ -->
-            <div class="main col-lg-10">
-
-              <!-- page-title start -->
-              <!-- ================ -->
-              <h1 class="page-title">My Skills</h1>
-              <div class="separator-2 mb-20"></div>
-              <!-- page-title end -->
-
-              <p>My Technical skills</p>
-              <div class="progress style-1 dark">
-                <span class="text"></span>
-                <div class="progress-bar progress-bar-white" role="progressbar" data-animate-width="75%">
-                  <span class="label object-non-visible" data-animation-effect="fadeInLeftSmall"
-                    data-effect-delay="1000">Ruby on Rails</span>
+              <!-- My Services Section -->
+            <div class="row">
+              <section class="services line graybg col-md-12 padding_50 padbot_50">
+                <div class="section-title"><span></span><h2>My Services</h2></div>
+                <div class="row">
+                    <!-- a service -->
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="service">
+                            <div class="icon">
+                                <i class="flaticon-html"></i>
+                            </div>
+                            <span class="title">Web Development</span>
+                            <p class="little-text">I have been working on web design for 10 years.</p>
+                        </div>
+                    </div>
+                    <!-- a service -->
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="service">
+                            <div class="icon">
+                                <i class="flaticon-attach"></i>
+                            </div>
+                            <span class="title">Branding Identity</span>
+                            <p class="little-text">We will make you a brand that is catchy and leaves a trace.</p>
+                        </div>
+                    </div>
+                    <!-- a service -->
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="service">
+                            <div class="icon">
+                                <i class="flaticon-vector"></i>
+                            </div>
+                            <span class="title">Illustrator</span>
+                            <p class="little-text">I have been working on illustration design for 6 years.</p>
+                        </div>
+                    </div>
+                    <!-- a service -->
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="service">
+                            <div class="icon">
+                                <i class="flaticon-schedule"></i>
+                            </div>
+                            <span class="title">Fast Delivery</span>
+                            <p class="little-text">I deliver your business as fast as possible.</p>
+                        </div>
+                    </div>
                 </div>
-              </div>
-              <div class="progress style-1 dark">
-                <span class="text"></span>
-                <div class="progress-bar progress-bar-white" role="progressbar" data-animate-width="70%">
-                  <span class="label object-non-visible" data-animation-effect="fadeInLeftSmall"
-                    data-effect-delay="1000">MySQL</span>
-                </div>
-              </div>
-              <div class="progress style-1 dark">
-                <span class="text"></span>
-                <div class="progress-bar progress-bar-white" role="progressbar" data-animate-width="75%">
-                  <span class="label object-non-visible" data-animation-effect="fadeInLeftSmall"
-                    data-effect-delay="1000">HTML/CSS</span>
-                </div>
-              </div>
-              <div class="progress style-1 dark">
-                <span class="text"></span>
-                <div class="progress-bar progress-bar-white" data-animate-width="65%">
-                  <span class="label object-non-visible" data-animation-effect="fadeInLeftSmall"
-                    data-effect-delay="1000">Amazon Web Services (AWS)</span>
-                </div>
-              </div>
-              <div class="progress style-1 dark">
-                <span class="text"></span>
-                <div class="progress-bar progress-bar-white" data-animate-width="75%">
-                  <span class="label object-non-visible" data-animation-effect="fadeInLeftSmall"
-                    data-effect-delay="1000">JavaScript/jQuery</span>
-                </div>
-              </div>
-              <br>
-              <p>Tools & Technologies</p>
-              <ul class="list-icons">
-                <li class="object-non-visible animated object-visible fadeInUpSmall"
-                  data-animation-effect="fadeInUpSmall"><i class="fa fa-check"></i> Linux system (Ubuntu, macOS)</li>
-                <li class="object-non-visible animated object-visible fadeInUpSmall"
-                  data-animation-effect="fadeInUpSmall" data-effect-delay="100"><i class="fa fa-check"></i> Git version
-                  control (Github) </li>
-                <li class="object-non-visible animated object-visible fadeInUpSmall"
-                  data-animation-effect="fadeInUpSmall" data-effect-delay="150"><i class="fa fa-check"></i> Microsoft
-                  Office</li>
-                <li class="object-non-visible animated object-visible fadeInUpSmall"
-                  data-animation-effect="fadeInUpSmall" data-effect-delay="200"><i class="fa fa-check"></i>Adobe
-                  Photoshop </li>
-              </ul>
+              </section>
             </div>
-            <!-- main end -->
-
-          </div>
-        </div>
-      </section>
-
-      <section class="section dark-translucent-bg fixed-bg background-img-1">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <div class="clients-container">
-                <div class="clients">
-                  <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="100">
-                    <a href="#"><img src="images/client-1.png" alt=""></a>
-                  </div>
-                  <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="200">
-                    <a href="#"><img src="images/client-2.png" alt=""></a>
-                  </div>
-                  <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="300">
-                    <a href="#"><img src="images/client-3.png" alt=""></a>
-                  </div>
-                  <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="400">
-                    <a href="#"><img src="images/client-4.png" alt=""></a>
-                  </div>
-                  <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="500">
-                    <a href="#"><img src="images/client-5.png" alt=""></a>
-                  </div>
-                  <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="600">
-                    <a href="#"><img src="images/client-6.png" alt=""></a>
-                  </div>
-                  <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="700">
-                    <a href="#"><img src="images/client-7.png" alt=""></a>
-                  </div>
-                  <div class="client-image object-non-visible" data-animation-effect="fadeIn" data-effect-delay="800">
-                    <a href="#"><img src="images/client-8.png" alt=""></a>
-                  </div>
-                </div>
-              </div>
+              <!-- Skills Section -->
+            <div class="row">
+              <section class="design-skills col-md-6 padding_60 padbot_50">
+                  <div class="section-title"><span></span><h2>Design Skills</h2></div>
+                  <ul class="skill-list">
+                      <li>
+                          <h3>Photoshop</h3>
+                          <div class="progress">
+                              <div class="percentage" style="width:80%;"></div>
+                          </div>
+                      </li>
+                      <li>
+                          <h3>Sketch</h3>
+                          <div class="progress">
+                              <div class="percentage" style="width:60%;"></div>
+                          </div>
+                      </li>
+                      <li>
+                          <h3>Adobe Xd</h3>
+                          <div class="progress">
+                              <div class="percentage" style="width:30%;"></div>
+                          </div>
+                      </li>
+                  </ul>
+              </section>
+              <section class="code-skills col-md-6 padding_60">
+                  <div class="section-title"><span></span><h2>Code Skills</h2></div>
+                  <ul class="skill-list">
+                      <li>
+                          <h3>Javascript</h3>
+                          <div class="progress">
+                              <div class="percentage" style="width:80%;"></div>
+                          </div>
+                      </li>
+                      <li>
+                          <h3>HTML5</h3>
+                          <div class="progress">
+                              <div class="percentage" style="width:60%;"></div>
+                          </div>
+                      </li>
+                      <li>
+                          <h3>CSS3</h3>
+                          <div class="progress">
+                              <div class="percentage" style="width:30%;"></div>
+                          </div>
+                      </li>
+                  </ul>
+              </section>
             </div>
           </div>
-        </div>
-      </section>
 
-      <section id="portfolio" class="section pv-40 light-gray-bg">
-        <div class="container">
-          <div class="row justify-content-lg-center">
-            <div class="col-lg-8 text-center">
-              <h2 class="title"><span class="text-muted">Recent</span> <span class="text-default">Projects</span></h2>
-              <div class="separator"></div>
-              <p class="lead">My projects in company and side projects</p>
-              <br>
+          <!-- Resume Page
+          ================================================== -->
+          <div id="resume" style="display: block;" class="active">
+            <!-- Resume Section -->
+            <div class="row">
+              <section class="education">
+                <div class="section-title"><span></span><h2>Resume</h2></div>
+                  <div class="row">
+                      <!-- Working History -->
+                      <div class="working-history col-md-6 padding_15 padbot_30">
+                          <ul class="timeline col-md-12 top_30">
+                              <li><i class="fa fa-suitcase" aria-hidden="true"></i><h2 class="timeline-title">Working History</h2></li>
+                              <!-- a work -->
+                              <li><h3 class="line-title">Art Director - Facebook Inc</h3>
+                                  <span>2010 - Present</span>
+                                  <p class="little-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling listening. Thing do taste on we manor.</p>
+                              </li>
+                             <!-- a work -->
+                              <li><h3 class="line-title">Senior Designer - Google</h3>
+                                  <span>2008 - 2010</span>
+                                  <p class="little-text">So insisted received is occasion advanced honoured. Among ready to which up. Attacks smiling and may out assured moments man nothing outward.</p>
+                              </li>
+                             <!-- a work -->
+                              <li><h3 class="line-title">Junior Designer - Creative Shake</h3>
+                                  <span>2005 - 2008</span>
+                                  <p class="little-text">Excited him now natural saw passage offices you minuter. At by asked being court hopes. Farther so friends am to detract.</p>
+                              </li>
+                          </ul>
+                      </div>
+                      <!-- Education History -->
+                      <div class="education-history col-md-6 padding_15 padbot_30">
+                          <ul class="timeline col-md-12 top_30">
+                              <li><i class="fa fa-graduation-cap" aria-hidden="true"></i><h2 class="timeline-title">Education History</h2></li>
+                              <!-- a work -->
+                              <li><h3 class="line-title">Abc University of Los Angeles</h3>
+                                  <span>2004 - 2009</span>
+                                  <p class="little-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling listening. Thing do taste on we manor.</p>
+                              </li>
+                             <!-- a work -->
+                              <li><h3 class="line-title">Drawing Course</h3>
+                                  <span>2003 - 2004</span>
+                                  <p class="little-text">So insisted received is occasion advanced honoured. Among ready to which up. Attacks smiling and may out assured moments man nothing outward.</p>
+                              </li>
+                             <!-- a work -->
+                              <li><h3 class="line-title">Abc High School</h3>
+                                  <span>2000 - 2003</span>
+                                  <p class="little-text">Excited him now natural saw passage offices you minuter. At by asked being court hopes. Farther so friends am to detract.</p>
+                              </li>
+                          </ul>
+                      </div>
+                  </div>
+              </section>
             </div>
-          </div>
-          <div class="row justify-content-lg-center">
-            <div class="col-lg-10">
-              <div class="image-box style-3-b">
+            <!-- Clients Section -->
+            <div class="row">
+              <section class="clients col-md-12 graybg padding_45">
+                <div class="section-title bottom_30"><span></span><h2>Clients</h2></div>
                 <div class="row">
-                  <div class="col-md-6 col-lg-4">
-                    <div class="shadow bordered">
-                      <img src="images/portfolio-1.jpg" alt="">
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <div class="client">
+                            <img src="images/client-01.jpg" alt="">
+                        </div>
                     </div>
-                  </div>
-                  <div class="col-md-6 col-lg-8">
-                    <div class="body">
-                      <h3 class="title"><a href="#">[Private] Project Title</a></h3>
-                      <p class="small mb-10"><i class="fa fa-calendar-o pr-1"></i> Feb, 2017 <i
-                          class="pl-10 pr-1 fa fa-tag"></i> Japan Entertainment System</p>
-                      <div class="separator-2"></div>
-                      <p class="mb-10">Lorem ipsum dolor sit amet, adipisicing elit. Aliquam atque ipsam nihialal. Lorem
-                        ipsum dolor sit amet, consectetur adipisicing elit. Nam laudantium, provident culpa saepe.</p>
-                      <p><a href="portfolio-item.html">Read More</a></p>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <div class="client">
+                            <img src="images/client-02.jpg" alt="">
+                        </div>
                     </div>
-                  </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <div class="client">
+                            <img src="images/client-03.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <div class="client">
+                            <img src="images/client-04.jpg" alt="">
+                        </div>
+                    </div>
                 </div>
-              </div>
-              <div class="image-box style-3-b">
-                <div class="row">
-                  <div class="col-md-6 col-lg-4">
-                    <div class="shadow bordered">
-                      <img src="images/portfolio-2.jpg" alt="">
-                    </div>
-                  </div>
-                  <div class="col-md-6 col-lg-8">
-                    <div class="body">
-                      <h3 class="title"><a href="#">[Private] Project Title</a></h3>
-                      <p class="small mb-10"><i class="fa fa-calendar-o pr-1"></i> Feb, 2017 <i
-                          class="pl-10 pr-1 fa fa-tag"></i> Japan Services System</p>
-                      <div class="separator-2"></div>
-                      <p class="mb-10">Lorem ipsum dolor sit amet, adipisicing elit. Aliquam atque ipsam nihialal. Lorem
-                        ipsum dolor sit amet, consectetur adipisicing elit. Nam laudantium, provident culpa saepe.</p>
-                      <p><a href="portfolio-item.html">Read More</a></p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="image-box style-3-b">
-                <div class="row">
-                  <div class="col-md-6 col-lg-4">
-                    <div class="shadow bordered">
-                      <img src="images/portfolio-4.jpg" alt="">
-                    </div>
-                  </div>
-                  <div class="col-md-6 col-lg-8">
-                    <div class="body">
-                      <h3 class="title"><a href="http://thumuamaymoc.com">thumuamaymoc.com</a></h3>
-                      <p class="small mb-10"><i class="fa fa-calendar-o pr-1"></i> Feb, 2017 <i
-                          class="pl-10 pr-1 fa fa-tag"></i> Web Design, Landing page</p>
-                      <div class="separator-2"></div>
-                      <p class="mb-10">Lorem ipsum dolor sit amet, adipisicing elit. Aliquam atque ipsam nihialal. Lorem
-                        ipsum dolor sit amet, consectetur adipisicing elit. Nam laudantium, provident culpa saepe.</p>
-                      <p><a href="portfolio-item.html">Read More</a></p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="image-box style-3-b">
-                <div class="row">
-                  <div class="col-md-6 col-lg-4">
-                    <div class="shadow bordered">
-                      <img src="images/portfolio-3.jpg" alt="">
-                    </div>
-                  </div>
-                  <div class="col-md-6 col-lg-8">
-                    <div class="body">
-                      <h3 class="title"><a href="http://vinalign.com">Vinalign Vietnam</a></h3>
-                      <p class="small mb-10"><i class="fa fa-calendar-o pr-1"></i> Feb, 2017 <i
-                          class="pl-10 pr-1 fa fa-tag"></i>Medical System</p>
-                      <div class="separator-2"></div>
-                      <p class="mb-10">Lorem ipsum dolor sit amet, adipisicing elit. Aliquam atque ipsam nihialal. Lorem
-                        ipsum dolor sit amet, consectetur adipisicing elit. Nam laudantium, provident culpa saepe.</p>
-                      <p><a href="portfolio-item.html">Read More</a></p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="image-box style-3-b">
-                <div class="row">
-                  <div class="col-md-6 col-lg-4">
-                    <div class="shadow bordered">
-                      <img src="images/portfolio-3.jpg" alt="">
-                    </div>
-                  </div>
-                  <div class="col-md-6 col-lg-8">
-                    <div class="body">
-                      <h3 class="title"><a href="portfolio-item.html">Classy</a></h3>
-                      <p class="small mb-10"><i class="fa fa-calendar-o pr-1"></i> Feb, 2017 <i
-                          class="pl-10 pr-1 fa fa-tag"></i>Medical System</p>
-                      <div class="separator-2"></div>
-                      <p class="mb-10">Lorem ipsum dolor sit amet, adipisicing elit. Aliquam atque ipsam nihialal. Lorem
-                        ipsum dolor sit amet, consectetur adipisicing elit. Nam laudantium, provident culpa saepe.</p>
-                      <p><a href="portfolio-item.html">Read More</a></p>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              </section>
+            </div>
+            <!-- Testimonials -->
+            <div class="row">
+              <section class="testimonials bottom_30">
+                  <div class="section-title top_60 bottom_30"><span></span><h2>Testimonials</h2></div>
+                  <div class="owl-carousel row owl-theme" data-items="3" data-autoplay="3000" data-pagination="true" style="opacity: 1; display: block;">
+                      <!-- a item -->
+                      <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 3348px; left: 0px; display: block; transition: all 800ms ease 0s; transform: translate3d(-558px, 0px, 0px);"><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
+                          <div class="comment">
+                              <div class="top-section">
+                                  <figure>
+                                      <img src="images/testimonial-1.jpg" alt="">
+                                  </figure>
+                                  <div class="name-info">
+                                      <span class="name">Jack Garratt</span>
+                                      <span class="job">Freelancer</span>
+                                  </div>
+                              </div>
+                              <hr>
+                              <p>Great designer! he finished our work wonderfully and just in time. thanks for everything.</p>
+                          </div>
+                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
+                          <div class="comment">
+                              <div class="top-section">
+                                  <figure>
+                                      <img src="images/testimonial-2.jpg" alt="">
+                                  </figure>
+                                  <div class="name-info">
+                                      <span class="name">April M. Griffin</span>
+                                      <span class="job">Founder</span>
+                                  </div>
+                              </div>
+                              <hr>
+                              <p>Our logo and business card design look great. Thanks Henry</p>
+                          </div>
+                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
+                          <div class="comment">
+                              <div class="top-section">
+                                  <figure>
+                                      <img src="images/testimonial-3.jpg" alt="">
+                                  </figure>
+                                  <div class="name-info">
+                                      <span class="name">Larry M. Johnson</span>
+                                      <span class="job">Freelancer</span>
+                                  </div>
+                              </div>
+                              <hr>
+                              <p>Henry is a very creative and talented designer. I do not hesitate to work again.</p>
+                          </div>
+                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
+                          <div class="comment">
+                              <div class="top-section">
+                                  <figure>
+                                      <img src="images/testimonial-1.jpg" alt="">
+                                  </figure>
+                                  <div class="name-info">
+                                      <span class="name">Jack Garratt</span>
+                                      <span class="job">Freelancer</span>
+                                  </div>
+                              </div>
+                              <hr>
+                              <p>Great designer! he finished our work wonderfully and just in time. thanks for everything.</p>
+                          </div>
+                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
+                          <div class="comment">
+                              <div class="top-section">
+                                  <figure>
+                                      <img src="images/testimonial-2.jpg" alt="">
+                                  </figure>
+                                  <div class="name-info">
+                                      <span class="name">April M. Griffin</span>
+                                      <span class="job">Founder</span>
+                                  </div>
+                              </div>
+                              <hr>
+                              <p>Our logo and business card design look great. Thanks Henry</p>
+                          </div>
+                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
+                          <div class="comment">
+                              <div class="top-section">
+                                  <figure>
+                                      <img src="images/testimonial-3.jpg" alt="">
+                                  </figure>
+                                  <div class="name-info">
+                                      <span class="name">Larry M. Johnson</span>
+                                      <span class="job">Freelancer</span>
+                                  </div>
+                              </div>
+                              <hr>
+                              <p>Henry is a very creative and talented designer. I do not hesitate to work again.</p>
+                          </div>
+                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
+                          <div class="comment">
+                              <div class="top-section">
+                                  <figure>
+                                      <img src="images/testimonial-1.jpg" alt="">
+                                  </figure>
+                                  <div class="name-info">
+                                      <span class="name">Jack Garratt</span>
+                                      <span class="job">Freelancer</span>
+                                  </div>
+                              </div>
+                              <hr>
+                              <p>Great designer! he finished our work wonderfully and just in time. thanks for everything.</p>
+                          </div>
+                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
+                          <div class="comment">
+                              <div class="top-section">
+                                  <figure>
+                                      <img src="images/testimonial-2.jpg" alt="">
+                                  </figure>
+                                  <div class="name-info">
+                                      <span class="name">April M. Griffin</span>
+                                      <span class="job">Founder</span>
+                                  </div>
+                              </div>
+                              <hr>
+                              <p>Our logo and business card design look great. Thanks Henry</p>
+                          </div>
+                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
+                          <div class="comment">
+                              <div class="top-section">
+                                  <figure>
+                                      <img src="images/testimonial-3.jpg" alt="">
+                                  </figure>
+                                  <div class="name-info">
+                                      <span class="name">Larry M. Johnson</span>
+                                      <span class="job">Freelancer</span>
+                                  </div>
+                              </div>
+                              <hr>
+                              <p>Henry is a very creative and talented designer. I do not hesitate to work again.</p>
+                          </div>
+                      </div></div></div></div>
+                      <!-- a item -->
+
+                      <!-- a item -->
+
+                      <!-- a item -->
+
+                      <!-- a item -->
+
+                      <!-- a item -->
+
+                      <!-- a item -->
+
+                      <!-- a item -->
+
+                      <!-- a item -->
+
+                  <div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page"><span class=""></span></div><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
+              </section>
             </div>
           </div>
         </div>
-      </section>
-
-
-      <footer id="footer" class="clearfix">
-      </footer>
+      </div>
     </div>
   </div>
 
-  <div class="col-md-3">
-    <div class="sticky-top sticky-top-80">
-      <div class="row justify-content-lg-center">
-        <div class="text-center pv-20">
-          <div class="separator"></div>
-          <p class="large">Hello I'm Son Do.
-            I am 23 years old. I graduated from FPT University Hanoi.
-            I have 2-year experience in web development with Ruby on rails in Framgia Vietnam Inc.
-            I also work as freelance web developer in Phai Team.
-            </br>
-            I am a kind of extroverted and enthusiastic.
-            I like to challenge myself and try new things.
-          </p>
+  <div class="col-lg-3 col-md-4">
+    <div class="sticky-top sticky-top-20">
+      <div class="profile">
+        <div class="profile-name">
+          <span class="name">Henry Rooney</span><br>
+          <span class="job">Creative Designer</span>
         </div>
-      </div>
-      <div class="container">
-        <div class="footer-inner">
-          <div class="row justify-content-xl-center">
-            <div class="col-xl-12 col-12">
-                <div class="">
-                  <div class="footer-content">
-                    <h2 class="title">Find Me</h2>
-                    <ul class="list-icons">
-                    <li><i class="fa fa-map-marker pr-10 text-default"></i> Ho Chi Minh City, Vietnam</li>
-                    <li><i class="fa fa-phone pr-10 text-default"></i> +84 xxx260895</li>
-                    <li><a href="mailto:hongsondhs@gmail.com"><i
-                    class="fa fa-envelope-o pr-10"></i>hongsondhs@gmail.com</a></li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="">
-                  <div class="footer-content">
-                    <h2 class="title">Follow Me</h2>
-                    <ul class="social-links circle">
-                    <li class="facebook"><a href="https://www.facebook.com/sondh5" target="blank"
-                    title="facebook"><i class="fa fa-facebook"></i></a></li>
-                    <li class="pinterest"><a href="https://www.instagram.com/sondh5" target="blank"
-                    title="instagram"><i class="fa fa-instagram"></i></a></li>
-                    <li class="linkedin"><a href="https://www.linkedin.com/in/sondh5/" target="blank"
-                    title="linkedin"><i class="fa fa-linkedin"></i></a></li>
-                    <li class="wordpress"><a href="https://sondh5.wordpress.com/" target="blank"
-                    title="wordpress"><i class="fa fa-wordpress"></i></a></li>
-                    <li class="vine"><a href="https://sondh5.pixieset.com/" target="blank" title="pixieset"><i
-                    class="fa fa-camera"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-            </div>
-          </div>
+        <figure class="profile-image">
+            <img src="images/profile.jpg" alt="">
+        </figure>
+        <ul class="profile-information">
+            <li></li>
+            <li><p><span>Name:</span> Chris Johnson</p></li>
+            <li><p><span>Birthday:</span> 06 December 1987</p></li>
+            <li><p><span>Job:</span> Freelancer</p></li>
+            <li><p><span>Email:</span> henry@domain.com</p></li>
+            <li><p><span>Skype:</span> henryrooney85</p></li>
+        </ul>
+        <div class="col-md-12 text-center">
+          <h6 class="title">Follow Me</h6>
+          <ul class="social-links circle">
+            <li class="facebook"><a href="https://www.facebook.com/sondh5" target="blank"
+            title="facebook"><i class="fa fa-facebook"></i></a></li>
+            <li class="pinterest"><a href="https://www.instagram.com/sondh5" target="blank"
+            title="instagram"><i class="fa fa-instagram"></i></a></li>
+            <li class="linkedin"><a href="https://www.linkedin.com/in/sondh5/" target="blank"
+            title="linkedin"><i class="fa fa-linkedin"></i></a></li>
+            <li class="vine"><a href="https://sondh5.pixieset.com/" target="blank" title="pixieset"><i
+            class="fa fa-camera"></i></a></li>
+          </ul>
+        </div>
+        <div class="col-md-12">
+          <button class="site-btn icon">Download Cv <i class="fa fa-download" aria-hidden="true"></i></button>
         </div>
       </div>
     </div>

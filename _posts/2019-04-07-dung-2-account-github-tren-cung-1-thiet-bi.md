@@ -3,6 +3,7 @@ layout: tils_layout
 title:  "Dùng 2 account github trên cùng 1 thiết bị"
 author: sondh5
 categories: [ TILs ]
+status: "public"
 ---
 
 Config lại file `~/.ssh/config`
@@ -15,7 +16,7 @@ User git
 IdentityFile ~/.ssh/id_rsa
 
 # Account cá nhân
-Host github-me   
+Host github-me
 HostName github.com
 User git
 IdentityFile ~/.ssh/id_rsa_me
@@ -29,7 +30,7 @@ git clone git@github-me:account_name/repo_name.git
 
 Check lại remote:
 ```
-git remote -v                                                          
+git remote -v
 origin	git@github-me:account_name/repo_name.git (fetch)
 origin	git@github-me:account_name/repo_name.git (push)
 ```

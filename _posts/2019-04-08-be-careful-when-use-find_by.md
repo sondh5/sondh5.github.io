@@ -3,6 +3,7 @@ layout: tils_layout
 title:  "Be careful when use find_by"
 author: sondh5
 categories: [ TILs, rails ]
+status: "public"
 ---
 
 ```ruby
