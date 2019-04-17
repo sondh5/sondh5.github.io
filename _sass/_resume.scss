@@ -31,6 +31,11 @@
 /*------------------------ 1 Body and Core Css ------------------------*/
 
 .about-me {
+  .list-icons,
+  .list {
+    list-style: none;
+    padding: 0;
+  }
   .social-links {
     list-style: none;
     font-size: 0;
@@ -101,81 +106,16 @@
   }
 
 
-  .social-links.animated-effect-1 li.instagram a:hover {
-    border-color: #517fa4;
+  .social-links.animated-effect-1 li.stumbleupon a:hover {
+    border-color: #126567;
   }
 
-  .social-links:not(.animated-effect-1) li.instagram a:hover,
-  .colored.social-links li.instagram a,
-  .social-links.animated-effect-1 li.instagram a:after,
-  .btn.instagram {
-    background-color: #517fa4;
-    border-color: #517fa4;
-    color: #ffffff;
-  }
-
-  .social-links.animated-effect-1 li.vimeo a:hover {
-    border-color: #aad450;
-  }
-
-  .social-links:not(.animated-effect-1) li.vimeo a:hover,
-  .colored.social-links li.vimeo a,
-  .social-links.animated-effect-1 li.vimeo a:after,
-  .btn.vimeo {
-    background-color: #aad450;
-    border-color: #aad450;
-    color: #ffffff;
-  }
-
-  .social-links.animated-effect-1 li.tumblr a:hover {
-    border-color: #32506d;
-  }
-
-  .social-links:not(.animated-effect-1) li.tumblr a:hover,
-  .colored.social-links li.tumblr a,
-  .social-links.animated-effect-1 li.tumblr a:after,
-  .btn.tumblr {
-    background-color: #32506d;
-    border-color: #32506d;
-    color: #ffffff;
-  }
-
-  .social-links.animated-effect-1 li.soundcloud a:hover {
-    border-color: #ff3a00;
-  }
-
-  .social-links:not(.animated-effect-1) li.soundcloud a:hover,
-  .colored.social-links li.soundcloud a,
-  .social-links.animated-effect-1 li.soundcloud a:after,
-  .btn.soundcloud {
-    background-color: #ff3a00;
-    border-color: #ff3a00;
-    color: #ffffff;
-  }
-
-  .social-links.animated-effect-1 li.foursquare a:hover {
-    border-color: #0072b1;
-  }
-
-  .social-links:not(.animated-effect-1) li.foursquare a:hover,
-  .colored.social-links li.foursquare a,
-  .social-links.animated-effect-1 li.foursquare a:after,
-  .btn.foursquare {
-    background-color: #0072b1;
-    border-color: #0072b1;
-    color: #ffffff;
-  }
-
-  .social-links.animated-effect-1 li.dribbble a:hover {
-    border-color: #ea4c89;
-  }
-
-  .social-links:not(.animated-effect-1) li.dribbble a:hover,
-  .colored.social-links li.dribbble a,
-  .social-links.animated-effect-1 li.dribbble a:after,
-  .btn.dribbble {
-    background-color: #ea4c89;
-    border-color: #ea4c89;
+  .social-links:not(.animated-effect-1) li.stumbleupon a:hover,
+  .colored.social-links li.stumbleupon a,
+  .social-links.animated-effect-1 li.stumbleupon a:after,
+  .btn.stumbleupon {
+    background-color: #f74425;
+    border-color: #f74425;
     color: #ffffff;
   }
 
@@ -944,7 +884,8 @@
 
   .timeline li .line-title{
       font-size: 16px;
-      line-height: 6px;
+      // line-height: 6px;
+      margin-bottom: 0;
   }
 
   .timeline li:first-child{

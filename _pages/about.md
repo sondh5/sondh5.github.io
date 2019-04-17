@@ -6,125 +6,56 @@ comments: false
 ---
 
 <div class="row justify-content-between about-me">
-  <div class="col-lg-9 col-md-8 pr-3">
+  <div class="col-lg-3 col-md-4 col-sm-12 order-md-12">
+    <div class="sticky-top sticky-top-20">
+      <div class="profile">
+        <div class="profile-name">
+          <span class="name">Son, Do Hong</span><br>
+          <span class="job">Wed Developer</span>
+        </div>
+        <figure class="profile-image">
+            <img src="images/profile.jpg" alt="">
+        </figure>
+        <ul class="profile-information">
+            <li></li>
+            <li><p><span>Name:</span> Do Hong Son</p></li>
+            <li><p><span>DOB:</span> December 26th</p></li>
+            <li><p><span>Job:</span> Web Developer</p></li>
+            <li><p><span>Email:</span> hongsondhs@gmail.com</p></li>
+            <li><p><span>Skype:</span> hongsondhs</p></li>
+        </ul>
+        <div class="col-md-12 text-center">
+          <h6 class="title">Follow Me</h6>
+          <ul class="social-links circle">
+            <li class="facebook"><a href="https://www.facebook.com/sondh5" target="blank" title="facebook"><i class="fa fa-facebook"></i></a></li>
+            <li class="stumbleupon"><a href="https://www.instagram.com/sondh5" target="blank" title="instagram"><i class="fa fa-instagram"></i></a></li>
+            <li class="linkedin"><a href="https://www.linkedin.com/in/sondh5/" target="blank" title="linkedin"><i class="fa fa-linkedin"></i></a></li>
+            <li class="xing"><a href="https://sondh5.pixieset.com/" target="blank" title="pixieset"><i class="fa fa-camera"></i></a></li>
+          </ul>
+        </div>
+        <div class="col-md-12">
+          <button class="site-btn icon">Download Cv <i class="fa fa-download" aria-hidden="true"></i></button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-9 col-md-8 col-sm-12 order-md-1 pr-3">
     <div class="row">
       <div class="col-md-12">
         <div id="content" class="panel-container">
           <!-- Home Page
           ================================================== -->
-          <div id="home" style="display: block;" class="active">
+          <div id="resume" style="display: block;" class="active">
             <div class="row">
               <section class="about-me line col-md-12 padding_30 padbot_30">
                 <div class="section-title"><span></span><h2>About Me</h2></div>
-                <p>Started earnest brother believe an exposed so. Me he believing daughters if forfeited at furniture. Age again and stuff downs spoke. Late hour new nay able fat each sell. Nor themselves age introduced frequently use unsatiable devonshire get. They why quit gay cold rose deal park. One same they four did ask busy. Reserved opinions fat him nay position. Breakfast as zealously incommode do agreeable furniture. One too nay led fanny allow plate.</p>
+                <p>Hello I'm Son Do. I am 23 years old. I graduated from FPT University Hanoi. I have 2-year experience in web development with Ruby on rails in Framgia Vietnam Inc. I also work as freelance web developer in Phai Team.
+                I am a kind of extroverted and enthusiastic. I like to challenge myself and try new things.</p>
               </section>
             </div>
-              <!-- My Services Section -->
-            <div class="row">
-              <section class="services line graybg col-md-12 padding_50 padbot_50">
-                <div class="section-title"><span></span><h2>My Services</h2></div>
-                <div class="row">
-                    <!-- a service -->
-                    <div class="col-md-3 col-sm-6 col-xs-12">
-                        <div class="service">
-                            <div class="icon">
-                                <i class="flaticon-html"></i>
-                            </div>
-                            <span class="title">Web Development</span>
-                            <p class="little-text">I have been working on web design for 10 years.</p>
-                        </div>
-                    </div>
-                    <!-- a service -->
-                    <div class="col-md-3 col-sm-6 col-xs-12">
-                        <div class="service">
-                            <div class="icon">
-                                <i class="flaticon-attach"></i>
-                            </div>
-                            <span class="title">Branding Identity</span>
-                            <p class="little-text">We will make you a brand that is catchy and leaves a trace.</p>
-                        </div>
-                    </div>
-                    <!-- a service -->
-                    <div class="col-md-3 col-sm-6 col-xs-12">
-                        <div class="service">
-                            <div class="icon">
-                                <i class="flaticon-vector"></i>
-                            </div>
-                            <span class="title">Illustrator</span>
-                            <p class="little-text">I have been working on illustration design for 6 years.</p>
-                        </div>
-                    </div>
-                    <!-- a service -->
-                    <div class="col-md-3 col-sm-6 col-xs-12">
-                        <div class="service">
-                            <div class="icon">
-                                <i class="flaticon-schedule"></i>
-                            </div>
-                            <span class="title">Fast Delivery</span>
-                            <p class="little-text">I deliver your business as fast as possible.</p>
-                        </div>
-                    </div>
-                </div>
-              </section>
-            </div>
-              <!-- Skills Section -->
-            <div class="row">
-              <section class="design-skills col-md-6 padding_60 padbot_50">
-                  <div class="section-title"><span></span><h2>Design Skills</h2></div>
-                  <ul class="skill-list">
-                      <li>
-                          <h3>Photoshop</h3>
-                          <div class="progress">
-                              <div class="percentage" style="width:80%;"></div>
-                          </div>
-                      </li>
-                      <li>
-                          <h3>Sketch</h3>
-                          <div class="progress">
-                              <div class="percentage" style="width:60%;"></div>
-                          </div>
-                      </li>
-                      <li>
-                          <h3>Adobe Xd</h3>
-                          <div class="progress">
-                              <div class="percentage" style="width:30%;"></div>
-                          </div>
-                      </li>
-                  </ul>
-              </section>
-              <section class="code-skills col-md-6 padding_60">
-                  <div class="section-title"><span></span><h2>Code Skills</h2></div>
-                  <ul class="skill-list">
-                      <li>
-                          <h3>Javascript</h3>
-                          <div class="progress">
-                              <div class="percentage" style="width:80%;"></div>
-                          </div>
-                      </li>
-                      <li>
-                          <h3>HTML5</h3>
-                          <div class="progress">
-                              <div class="percentage" style="width:60%;"></div>
-                          </div>
-                      </li>
-                      <li>
-                          <h3>CSS3</h3>
-                          <div class="progress">
-                              <div class="percentage" style="width:30%;"></div>
-                          </div>
-                      </li>
-                  </ul>
-              </section>
-            </div>
-          </div>
-
-          <!-- Resume Page
-          ================================================== -->
-          <div id="resume" style="display: block;" class="active">
-            <!-- Resume Section -->
             <div class="row">
               <section class="education">
-                <div class="section-title"><span></span><h2>Resume</h2></div>
+                <div class="section-title"><span></span><h2>Background</h2></div>
                   <div class="row">
                       <!-- Working History -->
                       <div class="working-history col-md-6 padding_15 padbot_30">
@@ -171,10 +102,60 @@ comments: false
                   </div>
               </section>
             </div>
+            <!-- Skills Section -->
+            <div class="row">
+              <section class="design-skills col-md-6 padding_60 padbot_50">
+                <div class="section-title"><span></span><h2>Technical skills</h2></div>
+                <ul class="skill-list">
+                  <li>
+                    <h3>Ruby on Rails</h3>
+                    <div class="progress">
+                      <div class="percentage" style="width:80%;"></div>
+                    </div>
+                  </li>
+                  <li>
+                    <h3>MySQL</h3>
+                    <div class="progress">
+                      <div class="percentage" style="width:70%;"></div>
+                    </div>
+                  </li>
+                  <li>
+                    <h3>HTML/CSS</h3>
+                    <div class="progress">
+                      <div class="percentage" style="width:75%;"></div>
+                    </div>
+                  </li>
+                  <li>
+                    <h3>Amazon Web Services (AWS)</h3>
+                    <div class="progress">
+                      <div class="percentage" style="width:65%;"></div>
+                    </div>
+                  </li>
+                  <li>
+                    <h3>JavaScript/jQuery</h3>
+                    <div class="progress">
+                      <div class="percentage" style="width:70%;"></div>
+                    </div>
+                  </li>
+                </ul>
+              </section>
+              <section class="code-skills col-md-6 padding_60">
+                <div class="section-title"><span></span><h2>Tools & Technologies</h2></div>
+                <ul class="list-icons">
+                  <li><i class="fa fa-check"></i> Linux system (Ubuntu, macOS)</li>
+                  <li><i class="fa fa-check"></i> Git version
+                    control (Github) </li>
+                  <li><i class="fa fa-check"></i> Microsoft
+                    Office</li>
+                  <li><i class="fa fa-check"></i>Adobe
+                    Photoshop </li>
+                </ul>
+              </section>
+            </div>
             <!-- Clients Section -->
             <div class="row">
               <section class="clients col-md-12 graybg padding_45">
-                <div class="section-title bottom_30"><span></span><h2>Clients</h2></div>
+                <div class="section-title bottom_30"><span></span><h2>Recent Projects</h2></div>
                 <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="client">
@@ -199,197 +180,55 @@ comments: false
                 </div>
               </section>
             </div>
-            <!-- Testimonials -->
+              <!-- My Services Section -->
             <div class="row">
-              <section class="testimonials bottom_30">
-                  <div class="section-title top_60 bottom_30"><span></span><h2>Testimonials</h2></div>
-                  <div class="owl-carousel row owl-theme" data-items="3" data-autoplay="3000" data-pagination="true" style="opacity: 1; display: block;">
-                      <!-- a item -->
-                      <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 3348px; left: 0px; display: block; transition: all 800ms ease 0s; transform: translate3d(-558px, 0px, 0px);"><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
-                          <div class="comment">
-                              <div class="top-section">
-                                  <figure>
-                                      <img src="images/testimonial-1.jpg" alt="">
-                                  </figure>
-                                  <div class="name-info">
-                                      <span class="name">Jack Garratt</span>
-                                      <span class="job">Freelancer</span>
-                                  </div>
-                              </div>
-                              <hr>
-                              <p>Great designer! he finished our work wonderfully and just in time. thanks for everything.</p>
-                          </div>
-                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
-                          <div class="comment">
-                              <div class="top-section">
-                                  <figure>
-                                      <img src="images/testimonial-2.jpg" alt="">
-                                  </figure>
-                                  <div class="name-info">
-                                      <span class="name">April M. Griffin</span>
-                                      <span class="job">Founder</span>
-                                  </div>
-                              </div>
-                              <hr>
-                              <p>Our logo and business card design look great. Thanks Henry</p>
-                          </div>
-                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
-                          <div class="comment">
-                              <div class="top-section">
-                                  <figure>
-                                      <img src="images/testimonial-3.jpg" alt="">
-                                  </figure>
-                                  <div class="name-info">
-                                      <span class="name">Larry M. Johnson</span>
-                                      <span class="job">Freelancer</span>
-                                  </div>
-                              </div>
-                              <hr>
-                              <p>Henry is a very creative and talented designer. I do not hesitate to work again.</p>
-                          </div>
-                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
-                          <div class="comment">
-                              <div class="top-section">
-                                  <figure>
-                                      <img src="images/testimonial-1.jpg" alt="">
-                                  </figure>
-                                  <div class="name-info">
-                                      <span class="name">Jack Garratt</span>
-                                      <span class="job">Freelancer</span>
-                                  </div>
-                              </div>
-                              <hr>
-                              <p>Great designer! he finished our work wonderfully and just in time. thanks for everything.</p>
-                          </div>
-                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
-                          <div class="comment">
-                              <div class="top-section">
-                                  <figure>
-                                      <img src="images/testimonial-2.jpg" alt="">
-                                  </figure>
-                                  <div class="name-info">
-                                      <span class="name">April M. Griffin</span>
-                                      <span class="job">Founder</span>
-                                  </div>
-                              </div>
-                              <hr>
-                              <p>Our logo and business card design look great. Thanks Henry</p>
-                          </div>
-                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
-                          <div class="comment">
-                              <div class="top-section">
-                                  <figure>
-                                      <img src="images/testimonial-3.jpg" alt="">
-                                  </figure>
-                                  <div class="name-info">
-                                      <span class="name">Larry M. Johnson</span>
-                                      <span class="job">Freelancer</span>
-                                  </div>
-                              </div>
-                              <hr>
-                              <p>Henry is a very creative and talented designer. I do not hesitate to work again.</p>
-                          </div>
-                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
-                          <div class="comment">
-                              <div class="top-section">
-                                  <figure>
-                                      <img src="images/testimonial-1.jpg" alt="">
-                                  </figure>
-                                  <div class="name-info">
-                                      <span class="name">Jack Garratt</span>
-                                      <span class="job">Freelancer</span>
-                                  </div>
-                              </div>
-                              <hr>
-                              <p>Great designer! he finished our work wonderfully and just in time. thanks for everything.</p>
-                          </div>
-                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
-                          <div class="comment">
-                              <div class="top-section">
-                                  <figure>
-                                      <img src="images/testimonial-2.jpg" alt="">
-                                  </figure>
-                                  <div class="name-info">
-                                      <span class="name">April M. Griffin</span>
-                                      <span class="job">Founder</span>
-                                  </div>
-                              </div>
-                              <hr>
-                              <p>Our logo and business card design look great. Thanks Henry</p>
-                          </div>
-                      </div></div><div class="owl-item" style="width: 186px;"><div class="col-md-12 item">
-                          <div class="comment">
-                              <div class="top-section">
-                                  <figure>
-                                      <img src="images/testimonial-3.jpg" alt="">
-                                  </figure>
-                                  <div class="name-info">
-                                      <span class="name">Larry M. Johnson</span>
-                                      <span class="job">Freelancer</span>
-                                  </div>
-                              </div>
-                              <hr>
-                              <p>Henry is a very creative and talented designer. I do not hesitate to work again.</p>
-                          </div>
-                      </div></div></div></div>
-                      <!-- a item -->
-
-                      <!-- a item -->
-
-                      <!-- a item -->
-
-                      <!-- a item -->
-
-                      <!-- a item -->
-
-                      <!-- a item -->
-
-                      <!-- a item -->
-
-                      <!-- a item -->
-
-                  <div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page"><span class=""></span></div><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
+              <section class="services line graybg col-md-12 padding_50 padbot_50">
+                <div class="section-title"><span></span><h2>Activities</h2></div>
+                <div class="row">
+                    <!-- a service -->
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="service">
+                            <div class="icon">
+                                <i class="flaticon-html"></i>
+                            </div>
+                            <span class="title">Web Development</span>
+                            <p class="little-text">I have been working on web design for 10 years.</p>
+                        </div>
+                    </div>
+                    <!-- a service -->
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="service">
+                            <div class="icon">
+                                <i class="flaticon-attach"></i>
+                            </div>
+                            <span class="title">Branding Identity</span>
+                            <p class="little-text">We will make you a brand that is catchy and leaves a trace.</p>
+                        </div>
+                    </div>
+                    <!-- a service -->
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="service">
+                            <div class="icon">
+                                <i class="flaticon-vector"></i>
+                            </div>
+                            <span class="title">Illustrator</span>
+                            <p class="little-text">I have been working on illustration design for 6 years.</p>
+                        </div>
+                    </div>
+                    <!-- a service -->
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="service">
+                            <div class="icon">
+                                <i class="flaticon-schedule"></i>
+                            </div>
+                            <span class="title">Fast Delivery</span>
+                            <p class="little-text">I deliver your business as fast as possible.</p>
+                        </div>
+                    </div>
+                </div>
               </section>
             </div>
           </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-lg-3 col-md-4">
-    <div class="sticky-top sticky-top-20">
-      <div class="profile">
-        <div class="profile-name">
-          <span class="name">Henry Rooney</span><br>
-          <span class="job">Creative Designer</span>
-        </div>
-        <figure class="profile-image">
-            <img src="images/profile.jpg" alt="">
-        </figure>
-        <ul class="profile-information">
-            <li></li>
-            <li><p><span>Name:</span> Chris Johnson</p></li>
-            <li><p><span>Birthday:</span> 06 December 1987</p></li>
-            <li><p><span>Job:</span> Freelancer</p></li>
-            <li><p><span>Email:</span> henry@domain.com</p></li>
-            <li><p><span>Skype:</span> henryrooney85</p></li>
-        </ul>
-        <div class="col-md-12 text-center">
-          <h6 class="title">Follow Me</h6>
-          <ul class="social-links circle">
-            <li class="facebook"><a href="https://www.facebook.com/sondh5" target="blank"
-            title="facebook"><i class="fa fa-facebook"></i></a></li>
-            <li class="pinterest"><a href="https://www.instagram.com/sondh5" target="blank"
-            title="instagram"><i class="fa fa-instagram"></i></a></li>
-            <li class="linkedin"><a href="https://www.linkedin.com/in/sondh5/" target="blank"
-            title="linkedin"><i class="fa fa-linkedin"></i></a></li>
-            <li class="vine"><a href="https://sondh5.pixieset.com/" target="blank" title="pixieset"><i
-            class="fa fa-camera"></i></a></li>
-          </ul>
-        </div>
-        <div class="col-md-12">
-          <button class="site-btn icon">Download Cv <i class="fa fa-download" aria-hidden="true"></i></button>
         </div>
       </div>
     </div>
