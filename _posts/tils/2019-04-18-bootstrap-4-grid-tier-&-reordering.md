@@ -7,7 +7,7 @@ status: "public"
 ---
 
 ##### Grid option
-From [v4.0.0-alpha.6](https://github.com/twbs/bootstrap/releases/tag/v4.0.0-alpha.6), the xs tier no longer requires a breakpoint abbreviation
+From [v4.0.0-alpha.6](https://github.com/twbs/bootstrap/releases/tag/v4.0.0-alpha.6), the `xs` tier no longer requires a breakpoint abbreviation
 
 ![bootstrap-v4-grid](/images/tils/bootstrap-v4-grid.png){:height="auto" width="720px"}
 

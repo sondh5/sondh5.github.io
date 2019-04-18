@@ -41,7 +41,9 @@ title: Home
   </div>
   <div class="row listrecent">
     {% for post in paginator.posts %}
+    {% if post.status == "public" %}
     {% include postbox.html %}
+    {% endif %}
     {% endfor %}
   </div>
 </section>
