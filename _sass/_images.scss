@@ -1,0 +1,66 @@
+/* Figures and images */
+figure {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin: 2em 0;
+
+  .fluid-width-video-wrapper,
+  iframe,
+  img {
+    margin-bottom: 0.5em;
+  }
+
+  img {
+    width: 100%;
+    border-radius: 4px;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+  }
+
+  > a {
+    display: block;
+  }
+
+  &.half {
+    > img,
+    > a {
+      width: calc(50% - 0.5em);
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
+
+  &.third {
+    > img,
+    > a {
+      width: calc(33.3333% - 0.5em);
+    }
+    figcaption {
+      width: 100%;
+    }
+  }
+}
+/* Figure captions */
+figcaption {
+  text-align: center;
+  margin-bottom: 0.5em;
+  color: #7a8288;
+  font-size: 0.75em;
+  width: 100%;
+
+  a {
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+      color: #000, #000, #3b9cba, 15%, 25%;
+    }
+  }
+}
