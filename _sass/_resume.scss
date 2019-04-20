@@ -577,6 +577,8 @@
 
   .profile-image img{
       width: 100%;
+      border-radius: 0;
+      margin-bottom: 0;
   }
 
   ul.profile-information{
@@ -862,7 +864,7 @@
   .timeline li{
       border-left: solid 2px #ececec;
       list-style: none;
-      padding: 0 0 40px 30px;
+      padding: 0 0 20px 30px;
   }
 
   .timeline li:before{

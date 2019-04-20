@@ -62,18 +62,23 @@ comments: false
                           <ul class="timeline col-md-12 top_30">
                               <li><i class="fa fa-suitcase" aria-hidden="true"></i><h2 class="timeline-title">Working History</h2></li>
                               <!-- a work -->
-                              <li><h3 class="line-title">Art Director - Facebook Inc</h3>
-                                  <span>2010 - Present</span>
+                              <li><h3 class="line-title">Web Developer - Zigexn VeNtura</h3>
+                                  <span>Jan 2019 - Present</span>
                                   <p class="little-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling listening. Thing do taste on we manor.</p>
                               </li>
                              <!-- a work -->
-                              <li><h3 class="line-title">Senior Designer - Google</h3>
-                                  <span>2008 - 2010</span>
+                              <li><h3 class="line-title">Web Developer - Framgia Inc.</h3>
+                                  <span>Sep 2016 - Dec 2018</span>
                                   <p class="little-text">So insisted received is occasion advanced honoured. Among ready to which up. Attacks smiling and may out assured moments man nothing outward.</p>
                               </li>
-                             <!-- a work -->
-                              <li><h3 class="line-title">Junior Designer - Creative Shake</h3>
-                                  <span>2005 - 2008</span>
+                              <!-- a work -->
+                              <li><h3 class="line-title">Freelancer - Vinalign</h3>
+                                 <span>Aug 2017 - Apr 2018</span>
+                                 <p class="little-text">Excited him now natural saw passage offices you minuter. At by asked being court hopes. Farther so friends am to detract.</p>
+                              </li>
+                               <!-- a work -->
+                              <li><h3 class="line-title">Intern - FPT Software</h3>
+                                  <span>May 2016 - Sep 2016</span>
                                   <p class="little-text">Excited him now natural saw passage offices you minuter. At by asked being court hopes. Farther so friends am to detract.</p>
                               </li>
                           </ul>
@@ -83,19 +88,28 @@ comments: false
                           <ul class="timeline col-md-12 top_30">
                               <li><i class="fa fa-graduation-cap" aria-hidden="true"></i><h2 class="timeline-title">Education History</h2></li>
                               <!-- a work -->
-                              <li><h3 class="line-title">Abc University of Los Angeles</h3>
-                                  <span>2004 - 2009</span>
-                                  <p class="little-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling listening. Thing do taste on we manor.</p>
+                               <li><h3 class="line-title">Web Developer - FPT University</h3>
+                                   <span>Jun 2017 - Dec 2017</span>
+                                   <p class="little-text">Capstone project named Classy.<br> Search and Review System for foreign language centers web-based application. The application helps people find and compare to choose the best center for them. It also helps language centers have more student.</p>
+                               </li>
+                              <!-- a work -->
+                              <li><h3 class="line-title">Software Engineer Degree - FPT University</h3>
+                                  <span>Sep 2013 - Dec 2017</span>
+                                  <p class="little-text">
+                                  - FPT University Talented full scholarship at Software Engineering<br>
+                                  - Field of study: Software Engineering<br>
+                                  - Degree rank: Good<br>  
+                                  - Activities and societies: English and soft skills club, Vovinam Club, Photography Club, Student council<br>
+                                  </p>
                               </li>
                              <!-- a work -->
-                              <li><h3 class="line-title">Drawing Course</h3>
-                                  <span>2003 - 2004</span>
-                                  <p class="little-text">So insisted received is occasion advanced honoured. Among ready to which up. Attacks smiling and may out assured moments man nothing outward.</p>
-                              </li>
-                             <!-- a work -->
-                              <li><h3 class="line-title">Abc High School</h3>
-                                  <span>2000 - 2003</span>
-                                  <p class="little-text">Excited him now natural saw passage offices you minuter. At by asked being court hopes. Farther so friends am to detract.</p>
+                              <li><h3 class="line-title">High School Degree - Van Noi Highschool</h3>
+                                  <span>Sep 2010 - May 2013</span>
+                                  <p class="little-text">
+                                    - Major: Maths, Physics, Chemistry<br>
+                                    - Degree rank: Good<br>
+                                    - Activities and societies: VN50 Team<br>
+                                  </p>
                               </li>
                           </ul>
                       </div>
