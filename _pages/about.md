@@ -142,13 +142,10 @@ comments: false
               <section class="code-skills col-md-6 padding_60">
                 <div class="section-title"><span></span><h2>Tools & Technologies</h2></div>
                 <ul class="list-icons">
-                  <li><i class="fa fa-check"></i> Linux system (Ubuntu, macOS)</li>
-                  <li><i class="fa fa-check"></i> Git version
-                    control (Github) </li>
-                  <li><i class="fa fa-check"></i> Microsoft
-                    Office</li>
-                  <li><i class="fa fa-check"></i>Adobe
-                    Photoshop </li>
+                  <li><i class="fa fa-check"></i> Linux system (Ubuntu, macOS)</li><br>
+                  <li><i class="fa fa-check"></i> Git version control (Github)</li><br>
+                  <li><i class="fa fa-check"></i> Microsoft Office</li><br>
+                  <li><i class="fa fa-check"></i>Adobe Photoshop </li><br>
                 </ul>
               </section>
             </div>
