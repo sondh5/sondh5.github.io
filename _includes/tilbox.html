@@ -10,7 +10,7 @@
     </div>
     <div class="card-body">
       <h2 class="card-title"><a class="text-dark" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-      <h4 class="card-text">{{ post.content }}</h4>
+      <h4 class="card-text">{{ post.content | furigana }}</h4>
     </div>
     <div class="card-footer bg-white">
       <div class="wrapfooter">

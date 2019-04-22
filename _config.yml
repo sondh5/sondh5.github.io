@@ -30,6 +30,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-furigana
+  - jekyll-katex 
 
 # Archives
 jekyll-archives:
