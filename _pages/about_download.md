@@ -1,60 +1,43 @@
 ---
 layout: default_dark
 title: About me
-permalink: /about
+permalink: /about_download
 comments: false
 ---
 
 <div class="row justify-content-between about-me">
-  <div class="col-lg-3 col-md-4 col-sm-12 order-md-12">
-    <div class="sticky-top sticky-top-20">
-      <div class="profile">
-        <div class="profile-name">
-          <span class="name">Son, Do Hong</span><br>
-          <span class="job">Wed Developer</span>
-        </div>
-        <figure class="profile-image">
-           <img src="images/profile.jpg" alt="">
-        </figure>
-        <ul class="profile-information">
-            <li></li>
-            <li><p><span>Name:</span> Do Hong Son</p></li>
-            <li><p><span>DOB:</span> December 26th</p></li>
-            <li><p><span>Job:</span> Web Developer</p></li>
-            <li><p><span>Email:</span> hongsondhs@gmail.com</p></li>
-            <li><p><span>Skype:</span> hongsondhs</p></li>
-        </ul>
-        <div class="col-md-12 text-center">
-          <h6 class="title">Follow Me</h6>
-          <ul class="social-links circle">
-            <li class="facebook"><a href="https://www.facebook.com/sondh5" target="social_window" title="facebook"> <i class="fa fa-facebook"></i></a></li>
-            <li class="stumbleupon"><a href="https://www.instagram.com/sondh5" target="social_window" title="instagram"> <i class="fa fa-instagram"></i></a></li>
-            <li class="linkedin"><a href="https://www.linkedin.com/in/sondh5/" target="social_window" title="linkedin"> <i class="fa fa-linkedin"></i></a></li>
-            <li class="xing"><a href="https://sondh5.pixieset.com/" target="social_window" title="pixieset"> <i class="fa fa-camera"></i></a></li>
-          </ul>
-        </div>
-        <div class="col-md-12">
-          <form method="get" action="{{ site.baseurl }}/public/CV_DOHONGSON.pdf">
-            <button type="submit" class="site-btn icon">Download Cv<i class="fa fa-download" aria-hidden="true"></i></button>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="col-lg-9 col-md-8 col-sm-12 order-md-1 pr-3">
+
+  <div class="col-lg-9 col-md-12 col-sm-12 order-md-1 pr-3">
     <div class="row">
       <div class="col-md-12">
-        <div id="content" class="panel-container">
+        <div id="content" class="panel-container pb_0">
           <!-- Home Page
           ================================================== -->
           <div id="resume" style="display: block;" class="active">
             <div class="row">
               <section class="about-me line col-md-12 padding_30">
                 <div class="section-title"><span></span><h2>About Me</h2></div>
-                <p>Hello I'm Son Do. I am 24 years old, based on Hanoi, now working in Ho Chi Minh city.<br>
-                I graduated from FPT University Hanoi. I started web development with Ruby on Rails from September 2016. I also work as freelance web developer in Phai Team.
-                I am a kind of extroverted and enthusiastic. I like to challenge myself and try new things.
-                </p>
+                <div class="row">
+                  <div class="col-md-9">
+                    <p>
+                      <strong>Full name:</strong> SON, DO HONG <br>
+                      <strong>City:</strong> Ho Chi Minh <br>
+                      <strong>Phone:</strong>  (+84) 963-260-895 <br>
+                      <strong>Email:</strong>  hongsondhs@gmail.com <br>
+                      <strong>Skype:</strong>  hongsondhs <br>
+                      <strong>Facebook: </strong> fb.com/sondh5<br>
+                    </p>
+                    <p>Hello I'm Son Do. I am 24 years old, based on Hanoi, now working in Ho Chi Minh city.<br>
+                    I graduated from FPT University Hanoi. I started web development with Ruby on Rails from September 2016.<br>
+                    I also work as freelance web developer in Phai Team.
+                    I am a kind of extroverted and enthusiastic. I like to challenge myself and try new things.
+                    </p>
+                  </div>
+                  <div class="col-md-3 pull-right">
+                     <img src="images/profile.jpg" style="position:absolute;top:-35px;right:20px;" alt="">
+                  </div>
+                </div>
+                
               </section>
             </div>
             <div class="row">
@@ -97,7 +80,7 @@ comments: false
                                  <p class="little-text">
                                     - Working in freelance project with 3 devs <br>
                                     - Communicate directly with the customer to define the requirement from the customer's ideas<br>
-                                    -  Involved in building a web application from zero till service in<br>
+                                    - Involved in building a web application from zero till service in<br>
                                     - Run product with ~150 clinics, ~450 patients <br>
                                     - Familiar with auto deployment with Capistrano or manually by running shell script<br>
                                     - Monitoring and maintaining during a year after official release
@@ -107,10 +90,10 @@ comments: false
                                <li><h3 class="line-title">Web Developer - FPT University</h3>
                                    <span>Jun 2017 - Dec 2017</span>
                                    <p class="little-text">
-                                     - Capstone project named Classy.<br>
-                                     - Description: Search and Review System for foreign language centers web-based application. The application helps people find and compare to choose the best center for them. It also helps language centers have more students.<br>
+                                     - Capstone project named Classy<br>
+                                     - Description: Search and Review System for foreign language centers web-based application. <br>The application helps people find and compare to choose the best center for them. <br>It also helps language centers have more students.<br>
                                      - Team size: 5 devs<br>
-                                     - Technologies: Ruby on Rails, PostgreSQL, Hekoru Paas, jQuey, HTML/CSS
+                                     - Technologies: Ruby on Rails, PostgreSQL, Hekoru Paas, jQuey, HTML/CSS 
                                    </p>
                                </li>
                                <!-- a work -->
@@ -121,6 +104,7 @@ comments: false
                                     - Team size: 8 devs<br>
                                     - Technologies: Java Spring MVC, AngularJS, HTML/CSS<br>
                                     - Accomplishments: coding, teamwork, software process<br>
+                                    <br><br>
                                   </p>
                               </li>
                           </ul>
@@ -211,42 +195,34 @@ comments: false
             <!-- Clients Section -->
             <div class="row">
               <section class="clients col-md-12 graybg padding_45">
-                <div class="section-title bottom_30"><span></span><h2>Recent Freelance Projects</h2></div>
+                <div class="section-title"><span></span><h2>Recent Freelance Projects</h2></div>
                 <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                      <a href="http://vinalign.com" target="_blank">
                         <div class="client">
                            <img src="images/client-01.jpg" alt="">
                         </div>
-                      </a>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                      <a href="https://classyy.herokuapp.com/" target="_blank">
                         <div class="client">
                            <img src="images/client-02.jpg" alt="">
                         </div>
-                      </a>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                      <a href="https://thumuamaymoc.com" target="_blank">
                         <div class="client">
                            <img src="images/client-03.jpg" alt="">
                         </div>
-                      </a>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                      <a href="https://huongtien.wedding/" target="_blank">
                         <div class="client">
                            <img src="images/client-04.jpg" alt="">
                         </div>
-                      </a>
                     </div>
                 </div>
               </section>
             </div>
               <!-- My Services Section -->
             <div class="row">
-              <section class="services line graybg col-md-12 padding_50 padbot_50">
+              <section class="services line graybg col-md-12 padding_50 padbot_50 mb_0">
                 <div class="section-title"><span></span><h2>Achivements</h2></div>
                 <div class="row padbot_30">
                     <!-- a service -->
@@ -282,7 +258,7 @@ comments: false
                         </div>
                     </div>
                     <!-- a service -->
-
+                    
                 </div>
                 <div class="row">
                   <div class="col-md-6 col-sm-6 col-xs-12">

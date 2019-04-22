@@ -402,7 +402,23 @@
 
 
   /* Margins & Paddings */
-
+  
+  .m_0 {
+    margin: 0!important;
+  }
+  
+  .mb_0 {
+    margin-bottom: 0!important;
+  }
+  
+  .pb_0 {
+    padding-bottom: 0!important;
+  }
+  
+  .p_0 {
+    padding: 0!important;
+  }
+  
   .top_15{
       margin-top: 15px;
   }
@@ -852,19 +868,20 @@
       -moz-border-radius: 8px;
       padding: 20px;
      box-shadow: 0px 0px 48px 0px rgba(4, 6, 4, 0.08);
-     min-height: 186px;
+     // min-height: 186px;
   }
 
   /*------------------------ 5 Resume Section ------------------------*/
 
   ul.timeline{
       margin-left: 10px;
+      margin-bottom: 0;
   }
 
   .timeline li{
       border-left: solid 2px #ececec;
       list-style: none;
-      padding: 0 0 20px 30px;
+      padding: 0 0 10px 30px;
   }
 
   .timeline li:before{
@@ -891,7 +908,7 @@
   }
 
   .timeline li:first-child{
-      padding: 0 0 60px 19px;
+      padding: 0 0 30px 19px;
   }
 
   .timeline li:first-child:before{
