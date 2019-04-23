@@ -11,7 +11,7 @@ comments: false
       <div class="profile">
         <div class="profile-name">
           <span class="name">Son, Do Hong</span><br>
-          <span class="job">Wed Developer</span>
+          <span class="job">Web Developer</span>
         </div>
         <figure class="profile-image">
            <img src="images/profile.jpg" alt="">
