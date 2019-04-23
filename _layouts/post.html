@@ -27,9 +27,10 @@ post_class: post-template
 			</div>
 
 			<!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid"
+			{% if page.image and page.image_hidden != true %}<img class="featured-image img-fluid"
 				src="{% if page.image contains " ://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"
-				alt="{{ page.title }}">{% endif %}
+				alt="{{ page.title }}">
+			{% endif %}
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->

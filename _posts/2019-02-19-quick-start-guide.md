@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Xây dựng trang cá nhân với gem Jekyll"
+title:  Xây dựng trang cá nhân với gem Jekyll
+excerpt: Hướng dẫn tạo 1 trang cá nhân, static blog trong vòng 10 phút với gem Jekyll.
 author: sondh5
 categories: [ Jekyll ]
 image: assets/images/jekyll.png
