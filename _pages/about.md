@@ -34,8 +34,8 @@ comments: false
           </ul>
         </div>
         <div class="col-md-12">
-          <form method="get" action="{{ site.baseurl }}/public/CV_DOHONGSON.pdf">
-            <button type="submit" class="site-btn icon">Download Cv<i class="fa fa-download" aria-hidden="true"></i></button>
+          <form method="get" action="{{ site.baseurl }}/public/CV_DOHONGSON.pdf" target="_blank">
+            <button type="submit" class="btn site-btn icon">Download Cv<i class="fa fa-download" aria-hidden="true"></i></button>
           </form>
         </div>
       </div>
