@@ -32,6 +32,17 @@ body {
 	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 
+del {
+	color: #B7B7B7;
+	font-size: 0.7em;
+}
+
+ct {
+	border: 1px solid #dc3545;
+	padding: 10px;
+	color: red;
+}
+
 iframe.travel-maps {
   border: none;
 	@media (max-width: 767px) {
