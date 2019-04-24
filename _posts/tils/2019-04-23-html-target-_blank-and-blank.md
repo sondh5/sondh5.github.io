@@ -3,7 +3,7 @@ layout: tils_layout
 title: HTML target _blank and blank
 author: sondh5
 categories: [ TILs, HTML ]
-status: "public"
+status: public
 ---
 
 <a href="https://www.w3schools.com/tags/att_a_target.asp" target="_blank"> &lt;a&gt; tag document</a>

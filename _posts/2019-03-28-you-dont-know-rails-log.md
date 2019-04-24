@@ -4,7 +4,7 @@ title:  "Rails Logger and Rails Logging Best Practices"
 author: sondh5
 categories: [ Rails ]
 image: https://stackify.com/wp-content/uploads/2019/02/Rails-Logger-and-Rails-Logging-Best-Practices-881x441.jpg
-status: "public"
+status: public
 ---
 
 Logging provides critical value to applications with insight to usage, stats, and metrics, and saves us when debugging a problem. But we often leave logging to poorly implemented afterthoughts. So what should we know to get the most out of our logging?

@@ -7,7 +7,7 @@ categories: [ Jekyll ]
 image: assets/images/jekyll.png
 featured: true
 hidden: true
-status: "public"
+status: public
 ---
 
 Nếu bạn là 1 dev Ruby on Rails thì với môi trường đã có sẵn, không mất đến 5 phút để bạn có riêng cho mình 1 trang cá nhân thật ngầu theo các bước sau:

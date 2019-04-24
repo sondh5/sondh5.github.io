@@ -3,7 +3,7 @@ layout: tils_layout
 title:  ベトナムの麺の作り方
 author: sondh5
 categories: [ memo ]
-status: "public"
+status: public
 ---
 
 材料　(一人分)<br>

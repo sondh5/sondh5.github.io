@@ -7,7 +7,7 @@ categories: [ git ]
 image: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/GitHub-brave-hed-796x418.jpg
 image_hidden: true
 featured: true
-status: "public"
+status: public
 ---
 
 {% include figure image_path="https://user-images.githubusercontent.com/46481345/55465834-2622b480-5628-11e9-954b-72f6ba496bae.png" caption="My cactus model" %}

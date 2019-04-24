@@ -3,7 +3,7 @@ layout: tils_layout
 title:  "Bootstrap 4 grid tier & reordering"
 author: sondh5
 categories: [ TILs, bootstrap ]
-status: "public"
+status: public
 ---
 
 ##### Grid option
