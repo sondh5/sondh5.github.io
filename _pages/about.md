@@ -14,7 +14,7 @@ comments: false
           <span class="job">Web Developer</span>
         </div>
         <figure class="profile-image">
-           <img src="images/profile.jpg" alt="">
+           <img src="assets/images/profile.jpg" alt="">
         </figure>
         <ul class="profile-information">
             <li></li>
@@ -216,28 +216,28 @@ comments: false
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                       <a href="http://vinalign.com" target="_blank">
                         <div class="client">
-                           <img src="images/client-01.jpg" alt="">
+                           <img src="assets/images/client-01.jpg" alt="">
                         </div>
                       </a>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                       <a href="https://classyy.herokuapp.com/" target="_blank">
                         <div class="client">
-                           <img src="images/client-02.jpg" alt="">
+                           <img src="assets/images/client-02.jpg" alt="">
                         </div>
                       </a>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                       <a href="https://thumuamaymoc.com" target="_blank">
                         <div class="client">
-                           <img src="images/client-03.jpg" alt="">
+                           <img src="assets/images/client-03.jpg" alt="">
                         </div>
                       </a>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                       <a href="https://huongtien.wedding/" target="_blank">
                         <div class="client">
-                           <img src="images/client-04.jpg" alt="">
+                           <img src="assets/images/client-04.jpg" alt="">
                         </div>
                       </a>
                     </div>

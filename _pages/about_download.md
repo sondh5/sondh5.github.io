@@ -34,7 +34,7 @@ comments: false
                     </p>
                   </div>
                   <div class="col-md-3 pull-right">
-                     <img src="images/profile.jpg" style="position:absolute;top:-35px;right:20px;" alt="">
+                     <img src="assets/images/profile.jpg" style="position:absolute;top:-35px;right:20px;" alt="">
                   </div>
                 </div>
                 
@@ -199,22 +199,22 @@ comments: false
                 <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="client">
-                           <img src="images/client-01.jpg" alt="">
+                           <img src="assets/images/client-01.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="client">
-                           <img src="images/client-02.jpg" alt="">
+                           <img src="assets/images/client-02.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="client">
-                           <img src="images/client-03.jpg" alt="">
+                           <img src="assets/images/client-03.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div class="client">
-                           <img src="images/client-04.jpg" alt="">
+                           <img src="assets/images/client-04.jpg" alt="">
                         </div>
                     </div>
                 </div>
