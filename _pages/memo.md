@@ -7,7 +7,7 @@ permalink: /memo
 
 <div class="row listrecent">
   {% for category in site.categories %}
-    {% if category[0] == "memo" %}
+    {% if category[0] == "Memo" %}
       <div class="section-title col-md-12 mt-4">
         <h2 id="{{ category[0] | downcase }}">Category <span class="text-capitalize">{{ category[0] }}</span></h2>
       </div>
