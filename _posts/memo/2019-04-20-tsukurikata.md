@@ -2,7 +2,7 @@
 layout: tils_layout
 title:  ベトナムの麺の作り方
 author: sondh5
-categories: [ memo ]
+categories: [ Memo ]
 status: public
 ---
 

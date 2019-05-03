@@ -2,7 +2,7 @@
 layout: tils_layout
 title:  "Boolean type in Rails & Mysql"
 author: sondh5
-categories: [ TILs, rails, mysql ]
+categories: [ TILs, Rails, MySQL ]
 status: public
 ---
 

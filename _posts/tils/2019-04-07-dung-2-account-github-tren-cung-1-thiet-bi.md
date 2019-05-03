@@ -2,7 +2,7 @@
 layout: tils_layout
 title:  "Dùng 2 account github trên cùng 1 thiết bị"
 author: sondh5
-categories: [ TILs ]
+categories: [ TILs, Git ]
 status: public
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  Git branching model mà mình theo đuổi
 excerpt: Flow này có gọi là mô hình xương rồng (cactus model), xu hướng rewrite history. Tối giản tối đa git tree của bạn.
 author: sondh5
-categories: [ git ]
+categories: [ Git ]
 image: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/GitHub-brave-hed-796x418.jpg
 image_hidden: true
 featured: true

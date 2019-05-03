@@ -28,14 +28,14 @@ comments: false
           <h6 class="title">Follow Me</h6>
           <ul class="social-links circle">
             <li class="facebook"><a href="https://www.facebook.com/sondh5" target="social_window" title="facebook"> <i class="fa fa-facebook"></i></a></li>
-            <li class="stumbleupon"><a href="https://www.instagram.com/sondh5" target="social_window" title="instagram"> <i class="fa fa-instagram"></i></a></li>
+            <li class="xing"><a href="skype:hongsondhs?call" target="social_window" title="instagram"> <i class="fa fa-skype"></i></a></li>
             <li class="linkedin"><a href="https://www.linkedin.com/in/sondh5/" target="social_window" title="linkedin"> <i class="fa fa-linkedin"></i></a></li>
-            <li class="xing"><a href="https://sondh5.pixieset.com/" target="social_window" title="pixieset"> <i class="fa fa-camera"></i></a></li>
+            <li class="stumbleupon"><a href="https://sondh5.pixieset.com/" target="social_window" title="pixieset"> <i class="fa fa-camera"></i></a></li>
           </ul>
         </div>
         <div class="col-md-12">
           <form method="get" action="{{ site.baseurl }}/public/CV_DOHONGSON.pdf" target="_blank">
-            <button type="submit" class="btn site-btn icon">Download Cv<i class="fa fa-download" aria-hidden="true"></i></button>
+            <button type="submit" class="btn site-btn icon">Download CV<i class="fa fa-download" aria-hidden="true"></i></button>
           </form>
         </div>
       </div>

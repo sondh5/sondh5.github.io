@@ -3,7 +3,7 @@ layout: post
 title:  Tối ưu CSV import với fingerprint
 excerpt: Mình đã giảm thời gian import CSV từ 6 tiếng xuống còn 50 phút với kĩ thuật fingerprint.
 author: sondh5
-categories: [ rails ]
+categories: [ Rails ]
 image: https://www.hsbc.co.uk/content/dam/hsbc/gb/images/fingerprint.jpg
 image_hidden: true
 featured: true
