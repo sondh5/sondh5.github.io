@@ -19,7 +19,7 @@ comments: false
         <ul class="profile-information">
             <li></li>
             <li><p><span>Name:</span> Do Hong Son</p></li>
-            <li><p><span>DOB:</span> December 26th</p></li>
+            <li><p><span>DOB:</span> August 26th</p></li>
             <li><p><span>Job:</span> Web Developer</p></li>
             <li><p><span>Email:</span> hongsondhs@gmail.com</p></li>
             <li><p><span>Skype:</span> hongsondhs</p></li>
