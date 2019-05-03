@@ -41,6 +41,11 @@ ct {
 	border: 1px solid #dc3545;
 	padding: 10px;
 	color: red;
+	white-space: pre;
+}
+
+.memo .card-body {
+	overflow: auto;
 }
 
 .article-post p {
