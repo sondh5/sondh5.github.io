@@ -6,7 +6,7 @@ meta_description: "Jekyll, Personal, Blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: ''
+google_analytics: 'UA-139985902-1'
 disqus: 'sondh5'
 mailchimp-list: ''
 include: ["_pages"]
