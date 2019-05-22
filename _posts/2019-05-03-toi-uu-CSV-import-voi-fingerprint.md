@@ -54,7 +54,7 @@ Rails.cache.write("fp_products_list", fp_products_list)
 ```ruby
 CSV.foreach(file) do |row|
     next if fp_products_list&.include?(Digest::MD5.base64digest(row.to_json))
-    [..]
+    # [...]
 end
 ```
 Vậy là số dòng phải parse và import giảm được khoảng 75%. Kết quả là thời gian import của mình đã giảm từ 6h xuống còn 53 phút :D 

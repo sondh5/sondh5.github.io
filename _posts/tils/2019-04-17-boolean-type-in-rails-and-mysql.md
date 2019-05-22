@@ -37,7 +37,7 @@ Idol.find(2).status
   <span class="k">elsif</span> <span class="no">TRUE_VALUES</span><span class="p">.</span><span class="nf">include?</span><span class="p">(</span><span class="n">value</span><span class="p">)</span>
     <span class="kp">true</span>
   <span class="k">else</span>
-    <span class="p">[</span><span class="o">..</span><span class="p">]</span>
+    <span class="c1"># [...]</span>
     <span class="kp">false</span>
   <span class="k">end</span>
 <span class="k">end</span>

@@ -23,13 +23,9 @@ end
 ```
 
 ```ruby
-def count(column_name = nil)
-  if block_given?
-    # ...
-    return super()
-  end
-
-  calculate(:count, column_name)
+def count(column_name = nil, options = {})
+  # [...]
+  calculate(:count, column_name, options)
 end
 ```
 `count` luôn luôn sinh ra query, còn `size` sẽ check relation và query nếu cần.
