@@ -34,3 +34,19 @@ git remote -v
 origin	git@github-me:account_name/repo_name.git (fetch)
 origin	git@github-me:account_name/repo_name.git (push)
 ```
+
+##### Config author
+- Add config system
+```ruby
+# /etc/gitconfig
+[user]
+   email = account@company.com
+   name = company
+```
+- Add config local
+```ruby
+# your_personal_repo/.git/config
+[user]
+   email = account@me.com
+   name = me
+```
