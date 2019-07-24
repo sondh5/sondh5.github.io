@@ -221,6 +221,20 @@ comments: false
                       </a>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                      <a href="https://hukstudio.com/" target="_blank">
+                        <div class="client">
+                           <img src="assets/images/client-05.jpg" alt="">
+                        </div>
+                      </a>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                      <a href="https://huongtien.wedding/" target="_blank">
+                        <div class="client">
+                           <img src="assets/images/client-04.jpg" alt="">
+                        </div>
+                      </a>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                       <a href="https://classyy.herokuapp.com/" target="_blank">
                         <div class="client">
                            <img src="assets/images/client-02.jpg" alt="">
@@ -231,13 +245,6 @@ comments: false
                       <a href="https://thumuamaymoc.com" target="_blank">
                         <div class="client">
                            <img src="assets/images/client-03.jpg" alt="">
-                        </div>
-                      </a>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                      <a href="https://huongtien.wedding/" target="_blank">
-                        <div class="client">
-                           <img src="assets/images/client-04.jpg" alt="">
                         </div>
                       </a>
                     </div>

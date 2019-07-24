@@ -91,6 +91,8 @@ Chú ý:
 Đừng quên sửa lại _config.yml: `baseurl: ""`
 - Cho người dùng mac thì nếu bị lỗi install gem ffi thì tham khảo [issue này](https://github.com/ffi/ffi/issues/651)  và [gist này](https://gist.github.com/Dreyer/0a0976f5606c0c963ab9a622f03ee26d).
 
+***
+
 Tham khảo:
 - [jekyllrb.com](https://jekyllrb.com)
 - [mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll)
