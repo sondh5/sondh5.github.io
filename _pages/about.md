@@ -51,9 +51,10 @@ comments: false
             <div class="row">
               <section class="about-me line col-md-12 padding_30">
                 <div class="section-title"><span></span><h2>About Me</h2></div>
-                <p>Hello I'm Son Do. I am 24 years old, based on Hanoi, now working in Ho Chi Minh city.<br>
-                I graduated from FPT University Hanoi. I started web development with Ruby on Rails from September 2016. I also work as freelance web developer in Phai Team.
-                I am a kind of extroverted and enthusiastic. I like to challenge myself and try new things.
+                <p>Hello I'm Son Do. I am from Hanoi and now working in Ho Chi Minh city, Vietnam.<br>
+                I graduated from FPT University Hanoi. I started web development with Ruby on Rails from September 2016.<br>
+                My technology stack: Ruby/Ruby on Rails; MySQL/PostgreSQL; HTML/CSS/jQuery. I also have experience of setting up and building application with Amazon web services: S3, EC2, Cloudfront, Cloudwatch, etc.<br>
+                I would say that I am an extroverted, enthusiastic person and proud of my ability to persevere and overcome challenges.
                 </p>
               </section>
             </div>
@@ -70,7 +71,7 @@ comments: false
                                   <span>Jan 2019 - Present</span>
                                   <p class="little-text">
                                     - Working in sharing economy product of company, team size 6 devs<br>
-                                    - Shipping new features, bug-fixes in every week sprint<br>
+                                    - Shipping new features, bug-fixes in every 2-week sprint<br>
                                     - Using Apache Solr as search engine<br>
                                     - Run application with over million products<br>
                                     - Updating and importing list products everyday<br>
@@ -199,7 +200,7 @@ comments: false
                   <li><i class="fa fa-check"></i> Git version control (Github)</li>
                   <li><i class="fa fa-check"></i> Apache Solr</li>
                   <li><i class="fa fa-check"></i> Microsoft Office</li>
-                  <li><i class="fa fa-check"></i>Adobe Photoshop </li>
+                  <li><i class="fa fa-check"></i> Adobe Photoshop </li>
                 </ul>
                 <div class="section-title"><span></span><h2>Languages</h2></div>
                 <ul class="list-icons">
@@ -241,13 +242,13 @@ comments: false
                         </div>
                       </a>
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <!-- <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                       <a href="https://thumuamaymoc.com" target="_blank">
                         <div class="client">
                            <img src="assets/images/client-03.jpg" alt="">
                         </div>
                       </a>
-                    </div>
+                    </div> -->
                 </div>
               </section>
             </div>

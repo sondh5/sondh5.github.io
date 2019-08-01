@@ -27,10 +27,10 @@ comments: false
                       <strong>Skype:</strong>  hongsondhs <br>
                       <strong>Facebook: </strong> fb.com/sondh5<br>
                     </p>
-                    <p>Hello I'm Son Do. I am 24 years old, based on Hanoi, now working in Ho Chi Minh city.<br>
+                    <p>Hello I'm Son Do. I am from Hanoi and now working in Ho Chi Minh city, Vietnam.<br>
                     I graduated from FPT University Hanoi. I started web development with Ruby on Rails from September 2016.<br>
-                    I also work as freelance web developer in Phai Team.
-                    I am a kind of extroverted and enthusiastic. I like to challenge myself and try new things.
+                    My technology stack: Ruby/Ruby on Rails; MySQL/PostgreSQL; HTML/CSS/jQuery. I also have experience of setting up and building application with Amazon web services: S3, EC2, Cloudfront, Cloudwatch, etc.<br>
+                    I would say that I am an extroverted, enthusiastic person and proud of my ability to persevere and overcome challenges.
                     </p>
                   </div>
                   <div class="col-md-3 pull-right">
@@ -53,7 +53,7 @@ comments: false
                                   <span>Jan 2019 - Present</span>
                                   <p class="little-text">
                                     - Working in sharing economy product of company, team size 6 devs<br>
-                                    - Shipping new features, bug-fixes in every week sprint<br>
+                                    - Shipping new features, bug-fixes in every 2-week sprint<br>
                                     - Using Apache Solr as search engine<br>
                                     - Run application with over million products<br>
                                     - Updating and importing list products everyday<br>
@@ -86,16 +86,6 @@ comments: false
                                     - Monitoring and maintaining during a year after official release
                                  </p>
                               </li>
-                              <!-- a work -->
-                               <li><h3 class="line-title">Web Developer - FPT University</h3>
-                                   <span>Jun 2017 - Dec 2017</span>
-                                   <p class="little-text">
-                                     - Capstone project named Classy<br>
-                                     - Description: Search and Review System for foreign language centers web-based application. <br>The application helps people find and compare to choose the best center for them. <br>It also helps language centers have more students.<br>
-                                     - Team size: 5 devs<br>
-                                     - Technologies: Ruby on Rails, PostgreSQL, Hekoru Paas, jQuey, HTML/CSS 
-                                   </p>
-                               </li>
                                <!-- a work -->
                               <li><h3 class="line-title">Intern - FPT Software</h3>
                                   <span>May 2016 - Sep 2016</span>
@@ -104,7 +94,7 @@ comments: false
                                     - Team size: 8 devs<br>
                                     - Technologies: Java Spring MVC, AngularJS, HTML/CSS<br>
                                     - Accomplishments: coding, teamwork, software process<br>
-                                    <br><br>
+                                    <br><br><br><br><br><br>
                                   </p>
                               </li>
                           </ul>
@@ -183,7 +173,7 @@ comments: false
                   <li><i class="fa fa-check"></i> Git version control (Github)</li>
                   <li><i class="fa fa-check"></i> Apache Solr</li>
                   <li><i class="fa fa-check"></i> Microsoft Office</li>
-                  <li><i class="fa fa-check"></i>Adobe Photoshop </li>
+                  <li><i class="fa fa-check"></i> Adobe Photoshop </li>
                 </ul>
                 <div class="section-title"><span></span><h2>Languages</h2></div>
                 <ul class="list-icons">
@@ -197,26 +187,34 @@ comments: false
               <section class="clients col-md-12 graybg padding_45">
                 <div class="section-title"><span></span><h2>Recent Freelance Projects</h2></div>
                 <div class="row">
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                        <div class="client">
-                           <img src="assets/images/client-01.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                        <div class="client">
-                           <img src="assets/images/client-02.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                        <div class="client">
-                           <img src="assets/images/client-03.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                        <div class="client">
-                           <img src="assets/images/client-04.jpg" alt="">
-                        </div>
-                    </div>
+                  <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <a href="http://vinalign.com" target="_blank">
+                      <div class="client">
+                         <img src="assets/images/client-01.jpg" alt="">
+                      </div>
+                    </a>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <a href="https://hukstudio.com/" target="_blank">
+                      <div class="client">
+                         <img src="assets/images/client-05.jpg" alt="">
+                      </div>
+                    </a>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <a href="https://huongtien.wedding/" target="_blank">
+                      <div class="client">
+                         <img src="assets/images/client-04.jpg" alt="">
+                      </div>
+                    </a>
+                  </div>
+                  <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                    <a href="https://classyy.herokuapp.com/" target="_blank">
+                      <div class="client">
+                         <img src="assets/images/client-02.jpg" alt="">
+                      </div>
+                    </a>
+                  </div>
                 </div>
               </section>
             </div>
