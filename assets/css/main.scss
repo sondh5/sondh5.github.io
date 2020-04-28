@@ -8,6 +8,11 @@
 	display:inline;
 }
 
+.article-post p img {
+    margin: 0 auto;
+    display: block;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "syntax";
 @import "customs";

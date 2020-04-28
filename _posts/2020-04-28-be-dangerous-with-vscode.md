@@ -4,8 +4,10 @@ title:  "[VS Code] Add extensions enough to be dangerous"
 excerpt: Visual Studio Code - Add extensions enough to be dangerous
 author: sondh5
 categories: [ Other ]
+image: https://i0.wp.com/blog-asnpce.com/wp-content/uploads/2018/01/vscode.png?fit=750%2C750&ssl=1&w=640
 image_hidden: true
-featured: false
+featured: true
+hidden: true
 status: public
 ---
 
