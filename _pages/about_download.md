@@ -22,7 +22,6 @@ comments: false
                     <p>
                       <strong>Full name:</strong> SON, DO HONG <br>
                       <strong>City:</strong> Ho Chi Minh <br>
-                      <strong>Phone:</strong>  (+84) 963-260-895 <br>
                       <strong>Email:</strong>  hongsondhs@gmail.com <br>
                       <strong>Skype:</strong>  hongsondhs <br>
                       <strong>Facebook: </strong> fb.com/sondh5<br>
@@ -37,7 +36,7 @@ comments: false
                      <img src="assets/images/profile.jpg" style="position:absolute;top:-35px;right:20px;" alt="">
                   </div>
                 </div>
-                
+
               </section>
             </div>
             <div class="row">
@@ -256,7 +255,7 @@ comments: false
                         </div>
                     </div>
                     <!-- a service -->
-                    
+
                 </div>
                 <div class="row">
                   <div class="col-md-6 col-sm-6 col-xs-12">
