@@ -7,11 +7,11 @@ categories: [ TILs, Gcloud, GraphQL ]
 status: public
 ---
 
-**Tech stacks:**
+##### Tech stacks:
 - Google app engine with Identity-Aware Proxy turned on
 - GraphQL with Apollo Server Express
 
-**Problem**
+##### Problem
 - Cannot enable playground in production
 - [Appolo Docs](https://www.apollographql.com/docs/apollo-server/testing/graphql-playground/#enabling-graphql-playground-in-production)
 
@@ -31,11 +31,11 @@ server.listen().then(({ url }) => {
 });
 ```
 
-**Cause**
+##### Cause
 - Request POST `/graphql` return 401 errors <br>
 Digging in that request we got `"credentials": "omit"`
 
-**Solution**
+##### Solution
 ```javascript
 ...
 

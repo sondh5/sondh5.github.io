@@ -2,11 +2,11 @@
 layout: tils_layout
 title: Set basic auth for specific environment
 author: sondh5
-categories: [ TILs, ruby, rails ]
+categories: [ TILs, ruby, Rails ]
 status: public
 ---
 
-**For all environment**  
+##### For all environment
 Set authentication in `ApplicationController`
 ```ruby
 # app/controllers/application_controller.rb
@@ -15,7 +15,7 @@ class ApplicationController < ActionController::Base
 end
 ```
 
-**For specific environment**  
+##### For specific environment
 Set authentication in `environment.rb`, using rack middleware
 ```ruby
 # config/environments/staging.rb

@@ -6,7 +6,7 @@ categories: [ TILs, Node.js ]
 status: public
 ---
 
-**Setup**
+##### Setup
 `package.js`
 ```js
 {
@@ -18,12 +18,12 @@ status: public
 }
 ```
 
-**Problem**
+##### Problem
 ```js
 const browser = await puppeteer.launch();
 // Error: Failed to launch chrome!
 ```
-**Solution**
+##### Solution
 ```js
 const browser = await puppeteer.launch({
             args: [

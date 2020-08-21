@@ -2,7 +2,7 @@
 layout: tils_layout
 title: Better Rails where like query
 author: sondh5
-categories: [ TILs, SQL, rails ]
+categories: [ TILs, SQL, Rails ]
 status: public
 ---
 

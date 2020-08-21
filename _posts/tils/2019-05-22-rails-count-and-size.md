@@ -2,7 +2,7 @@
 layout: tils_layout
 title: Rails Size & Count
 author: sondh5
-categories: [ TILs, rails ]
+categories: [ TILs, Rails ]
 status: public
 ---
 

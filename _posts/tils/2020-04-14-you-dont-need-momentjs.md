@@ -8,7 +8,7 @@ status: public
 ---
 
 
-**Problem**
+##### Problem
 
 The format I need: `2020-04-20T16:20:00+09:00`
 
@@ -30,7 +30,7 @@ This one looks much better:
 const standardizeDate = (date) => dayjs(date).format('YYYY-MM-DDTHH:mm:ssZ');
 ```
 
-**Performance concerns**
+##### Performance concerns
 
 
 ![Large bundle size](https://github.com/you-dont-need/You-Dont-Need-Momentjs/raw/master/screenshot.png)
