@@ -35,9 +35,9 @@ comments: false
           <h6 class="title">Follow Me</h6>
           <ul class="social-links circle">
             <li class="facebook"><a href="https://www.facebook.com/sondh5" target="social_window" title="facebook"> <i class="fa fa-facebook"></i></a></li>
-            <li class="xing"><a href="skype:hongsondhs?call" target="social_window" title="instagram"> <i class="fa fa-skype"></i></a></li>
+            <li class="github"><a href="https://github.com/sondh5" target="social_window" title="github"> <i class="fa fa-github"></i></a></li>
             <li class="linkedin"><a href="https://www.linkedin.com/in/sondh5/" target="social_window" title="linkedin"> <i class="fa fa-linkedin"></i></a></li>
-            <li class="stumbleupon"><a href="https://sondh5.pixieset.com/" target="social_window" title="pixieset"> <i class="fa fa-camera"></i></a></li>
+            <li class="pixieset"><a href="https://sondh5.pixieset.com/" target="social_window" title="pixieset"> <i class="fa fa-camera"></i></a></li>
           </ul>
         </div>
         <!-- <div class="col-md-12">
