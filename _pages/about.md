@@ -25,7 +25,7 @@ comments: false
             <p><span>DOB:</span> August 26th</p>
           </li>
           <li>
-            <p><span>Email:</span> hongsondhs@gmail.com</p>
+            <p><span>Gmail:</span> hongsondhs</p>
           </li>
           <li>
             <p><span>Skype:</span> hongsondhs</p>

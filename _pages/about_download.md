@@ -22,7 +22,7 @@ comments: false
                     <p>
                       <strong>Full name:</strong> SON, DO HONG <br>
                       <strong>City:</strong> Ho Chi Minh <br>
-                      <strong>Email:</strong>  hongsondhs@gmail.com <br>
+                      <strong>Gmail:</strong>  hongsondhs <br>
                       <strong>Skype:</strong>  hongsondhs <br>
                       <strong>Facebook: </strong> fb.com/sondh5<br>
                     </p>
