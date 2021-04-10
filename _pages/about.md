@@ -220,6 +220,22 @@ comments: false
                         <i class="flaticon-approve"></i>
                       </div>
                       <div class="col-md-9 p_0">
+                        <span class="title">AWS: Going Cloud-Native</span>
+                        <p class="little-text">
+                          Certificate<br>
+                          Issuing by AWS & Coursera<br>
+                          Issued April 2021
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- a service -->
+                  <div class="col-md-6 col-sm-6 col-xs-12 pb-3">
+                    <div class="service row m_0">
+                      <div class="icon col-md-3 p_0">
+                        <i class="flaticon-approve"></i>
+                      </div>
+                      <div class="col-md-9 p_0">
                         <span class="title">JLPT N3</span>
                         <p class="little-text">
                           Certificate<br>
