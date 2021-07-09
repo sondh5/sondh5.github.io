@@ -56,6 +56,21 @@ comments: false
             ================================================== -->
           <div id="resume" style="display: block;" class="active">
             <div class="row">
+              <section class="about-me line col-md-12 padding_30">
+                <div class="section-title"><span></span>
+                  <h2>About Me</h2>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <p>
+                      Graduated from FPT University Hanoi. A software engineer with 4.5 years of development experience.<br>
+                      Good product mindset and passionate about web development. Specialization: Rails and React.
+                    </p>
+                  </div>
+                </div>
+              </section>
+            </div>
+            <div class="row">
               <section class="education">
                 <div class="section-title">
                   <span></span>
@@ -74,25 +89,18 @@ comments: false
                         <h3 class="line-title">Software Engineer - 株式会社北海道アルバイト情報社</h3>
                         <span>Feb 2020 - Present</span>
                         <p class="little-text">
-                          Technical stacks:<br>
-                          - ReactJS<br>
-                          - NextJS<br>
-                          - NodeJS<br>
-                          - GraphQL API<br>
-                          - Google Cloud Platform<br>
-                          - Docker / Kubernetes
+                          - Tech stack: Next.js / React / Node.js / Express.js / Typescript / GraphQL API<br>
+                          - GCP services: GKE, Cloud SQL, Firestore, Cloud BigQuery, App Engine, Cloud Run,<br> Cloud Function, Cloud Storage, Cloud Schedule
                         </p>
                       </li>
                       <!-- a work -->
                       <li>
-                        <h3 class="line-title">Web Developer - Zigexn VeNtura</h3>
+                        <h3 class="line-title">Web Developer / Ruby on Rails trainer - Zigexn VeNtura</h3>
                         <span>Jan 2019 - Jan 2020</span>
                         <p class="little-text">
-                          - Working in sharing economy product of company, team size 6 devs<br>
-                          - Shipping new features, bug-fixes in every 2-week sprint<br>
-                          - Using Apache Solr as search engine<br>
-                          - Run application with over million products<br>
-                          - Updating and importing list products everyday<br>
+                          - Tech stack: Ruby on Rails / HTML & CSS / jQuery<br>
+                          - GCP services: GCE, Cloud SQL, Cloud Load Balancing<br>
+                          - Design internship program
                         </p>
                       </li>
                       <!-- a work -->
@@ -100,15 +108,8 @@ comments: false
                         <h3 class="line-title">Web Developer - Framgia Inc.</h3>
                         <span>Sep 2016 - Dec 2018</span>
                         <p class="little-text">
-                          - Working in Digital Comics project, teamsize ~30 devs  <br>
-                          - Run product with over 2 million users (both web and native mobile app) <br>
-                          - Shipping new features, bug-fixes in every 2-week sprint<br>
-                          - Involved in building a system of 4 front servers, admin, batch, worker server<br>
-                          - Familiar with auto deployment with Capistrano or manually by running shell script<br>
-                          - Coding, review codes, improve CI/CD flow to collab with other teams<br>
-                          - Improve performance, have experiences in reading server log<br>
-                          - Develop project with Ruby on Rails as backend and other frontend related skills<br>
-                          - AWS products used: EC2, RDS, CloudWatch, S3, CloudFront, ELB, Route53 etc
+                          - Tech stack: Ruby on Rails / HTML & CSS / jQuery<br>
+                          - AWS services: EC2, RDS, ELB, CloudWatch, S3, CloudFront, Route53 etc
                         </p>
                       </li>
                       <li>
@@ -116,9 +117,7 @@ comments: false
                         <span>May 2016 - Sep 2016</span>
                         <p class="little-text">
                           - Involved in short-term on job training<br>
-                          - Team size: 8 devs<br>
-                          - Technologies: Java Spring MVC, AngularJS, HTML/CSS<br>
-                          - Accomplishments: coding, teamwork, software process<br>
+                          - Tech stack: Java Spring MVC, AngularJS, HTML/CSS<br>
                         </p>
                       </li>
                     </ul>
@@ -155,6 +154,28 @@ comments: false
                 </div>
               </section>
             </div>
+            <div class="row">
+              <section class="events col-md-12">
+                <div class="section-title"><span></span>
+                  <h2>Activities</h2>
+                </div>
+                <ul>
+                  <!-- a event -->
+                  <li>
+                    <div class="event-content">
+                      <a href="http://railsgirls.com/saigon-2019.html" target="_blank">
+                        Mentor - Rails girls Saigon 2019
+                      </a>
+                    </div>
+                    <small><span>Ho Chi Minh city, Vietnam</span> - July 2019</small>
+                    <p class="little-text">
+                      Our aim is to give tools and a community for women to understand the technology and to build their ideas.<br> We do this by providing a great experience in building things and by making technology more approachable.
+                    </p>
+                    <hr>
+                  </li>
+                </ul>
+              </section>
+            </div>
             <!-- Skills Section -->
             <div class="row skills">
               <section class="design-skills col-md-6">
@@ -171,7 +192,7 @@ comments: false
                   <img src="https://img.shields.io/badge/graphql-029A83?style=for-the-badge&logo=graphql&logoColor=white"/>
                   <br/>
                   <img src="https://img.shields.io/badge/Node.js-029A83?style=for-the-badge&logo=node.js&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/React.js-029A83?style=for-the-badge&logo=react&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/React-029A83?style=for-the-badge&logo=react&logoColor=white"/>
                   <img src="https://img.shields.io/badge/next.js-029A83?style=for-the-badge&logo=next.js&logoColor=white"/>
                 </ul>
                 <div class="section-title">
@@ -193,7 +214,8 @@ comments: false
                   <img src="https://img.shields.io/badge/PostgreSQL-029A83?style=for-the-badge&logo=postgresql&logoColor=white"/>
                   <br/>
                   <img src="https://img.shields.io/badge/Docker-029A83?style=for-the-badge&logo=docker&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/Kubernetes-029A83?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/Kubernetes-029A83?style=for-the-badge&logo=Kubernetes&logoColor=white"/><br>
+                  <img src="https://img.shields.io/badge/Linux-029A83?style=for-the-badge&logo=linux&logoColor=white" />
                 </ul>
                 <div class="section-title">
                   <span></span>
