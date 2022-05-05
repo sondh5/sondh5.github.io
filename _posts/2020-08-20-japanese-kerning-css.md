@@ -6,7 +6,7 @@ author: sondh5
 categories: [ HTML/CSS ]
 image_hidden: true
 featured: false
-status: private
+status: public
 ---
 
 Gần đây mình có làm 1 trang hiển thị tiếng Nhật sử dụng font Noto Sans JP, sau khi làm xong thi khoảng cách ở dấu 、。・ và các kí tự Katakana rất lớn, trông nó cứ sai sai. Sau 7749 giờ tìm hiểu bất lực thì mình được đồng nghiệp ném cho keyword là kerning và palt.
@@ -33,6 +33,6 @@ Bên phải là sau khi thêm đoạn css
 Mục đích chính của mình là sự khác biệt của dấu câu và các kí tự katakana.
 
 
-Nguồn tham khảo:
+*Nguồn tham khảo*
 - https://ics.media/entry/14087/
 - https://saruwakakun.com/html-css/reference/letter-spacing
